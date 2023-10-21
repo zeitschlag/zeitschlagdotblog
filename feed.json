@@ -1,0 +1,738 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "@zeitschlag in short",
+	"icon": "https://micro.blog/zeitschlag/avatar.jpg",
+	"home_page_url": "https://zeitschlag.micro.blog/",
+	"feed_url": "https://zeitschlag.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://zeitschlag.micro.blog/2023/10/21/i-got-myself.html",
+				
+				"content_html": "<p>I got myself an iPhone 15 Pro and I’m really impressed by the camera.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I got myself an iPhone 15 Pro and I’m really impressed by the camera.\n\n<img src=\"uploads/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-10-21T22:05:58+02:00",
+				"url": "https://zeitschlag.micro.blog/2023/10/21/i-got-myself.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2023/06/01/125001.html",
+				
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2023/2d91c7ff5e.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/b0408feb15.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/fcea8b42f0.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/a018eecf5b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-01T12:50:01+02:00",
+				"url": "https://zeitschlag.micro.blog/2023/06/01/125001.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2022/10/26/140132.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2022/eadffab1e8.jpg\" width=\"900\" height=\"1200\" alt=\"\">\n",
+				"date_published": "2022-10-26T14:01:32+02:00",
+				"url": "https://zeitschlag.micro.blog/2022/10/26/140132.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2022/10/04/220843.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2022/f82494ab11.jpg\" width=\"1200\" height=\"800\">\n",
+				"date_published": "2022-10-04T22:08:43+02:00",
+				"url": "https://zeitschlag.micro.blog/2022/10/04/220843.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2022/07/28/i-went-on.html",
+				
+				"content_html": "<p>I went on a hike</p>\n<p><!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted --></p>\n",
+				"content_text": "I went on a hike\n\n<img src=\"uploads/2022/3a1cd437d6.jpg\" alt=\"\" width=\"900\" height=\"1200\" /> <img src=\"uploads/2022/5ad4a94eea.jpg\" alt=\"\" width=\"900\" height=\"1200\" /> <img src=\"uploads/2022/0b1312341e.jpg\" alt=\"\" width=\"1200\" height=\"900\" />\n",
+				"date_published": "2022-07-28T07:51:57+02:00",
+				"url": "https://zeitschlag.micro.blog/2022/07/28/i-went-on.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2022/07/03/100112.html",
+				
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/7007d99a2d.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/88c2946ced.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-03T10:01:12+02:00",
+				"url": "https://zeitschlag.micro.blog/2022/07/03/100112.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2022/06/19/224208.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2022/fd65c7c6da.jpg\" />\n",
+				"date_published": "2022-06-19T22:42:08+02:00",
+				"url": "https://zeitschlag.micro.blog/2022/06/19/224208.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2022/05/21/112818.html",
+				
+				"content_html": "<p><img src=\"https://zeitschlag.micro.blog/uploads/2022/d8a3b5922a.jpg\" alt=\"\"></p>\n",
+				"content_text": "![](https://zeitschlag.micro.blog/uploads/2022/d8a3b5922a.jpg)\n",
+				"date_published": "2022-05-21T11:28:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2022/05/21/112818.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2021/10/19/170600.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2021/dfba595319.jpg\" height=\"1200\" width=\"900\" />\n",
+				"date_published": "2021-10-19T17:06:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2021/10/19/170600.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2021/10/10/ein-bisschen-lustig.html",
+				
+				"content_html": "<p>Ein bisschen lustig finde ich es ja schon, wie Reichen und Unternehmen der Arsch wegen <a href=\"https://www.dwenteignen.de\">#dwenteignen</a> auf Grundeis geht. Und es kommen mantrahaft immer wieder die gleichen Bullshit-Aussagen:</p>\n<ul>\n<li>„Enteignen schafft keine einzige neue Wohnung“ (No Shit, Sherlock),</li>\n<li>„Berlin ist auf Jahre überschuldet“ (Ihr habt euch nicht angeschaut, <em>wie</em> das finanziert werden soll, ne?)</li>\n<li>„Der Markt wird das schon richten! MEHR NEUBAU!!!! WENIGER BÜROKRATIE!!!!!“ (Jo, und wer soll sich den dann leisten können?)</li>\n</ul>\n<p>Gerade beim letzten Punkt wird es interessant — da hatte ich gestern ein <a href=\"https://www.gls.de/privatkunden/deutsche-wohnen/\">schönes Video bei der GLS-Bank</a> gesehen: Boden (und somit indirekt auch Wohnraum) sind im Grunde genommen gar keine handelbare Ware, weil er begrenzt ist. Mit anderen Worten: Der Marktmechanismus mit Angebot und Nachfrage und dem daraus resultierenden Preis funktioniert bei Boden gar nicht. Der Markt kann es also gar nicht richten, weil es kein Markt ist ¯\\_(ツ)_/¯</p>\n<p>Schön — und richtig! — finde ich den Schluss, den Thomas Jorberg von der GLS-Bank in dem kleinen Filmchen aufmacht: Wir müssen Wohnraum dem „Marktgeschehen“ entziehen und Wohnraum bzw. das Nutzungsrecht (Wohnen) in Genossenschaften oder gemeinnütziger Form weiterführen. Und das ist ja genau das, was die Kampagne #dwenteignen will! So, und jetzt lasst uns Vonovia und Co. ✨vergesellschaften✨ ✊💜💛</p>\n",
+				"content_text": "Ein bisschen lustig finde ich es ja schon, wie Reichen und Unternehmen der Arsch wegen [#dwenteignen](https://www.dwenteignen.de) auf Grundeis geht. Und es kommen mantrahaft immer wieder die gleichen Bullshit-Aussagen: \n\n- „Enteignen schafft keine einzige neue Wohnung“ (No Shit, Sherlock), \n- „Berlin ist auf Jahre überschuldet“ (Ihr habt euch nicht angeschaut, _wie_ das finanziert werden soll, ne?)\n- „Der Markt wird das schon richten! MEHR NEUBAU!!!! WENIGER BÜROKRATIE!!!!!“ (Jo, und wer soll sich den dann leisten können?)\n\nGerade beim letzten Punkt wird es interessant — da hatte ich gestern ein [schönes Video bei der GLS-Bank](https://www.gls.de/privatkunden/deutsche-wohnen/) gesehen: Boden (und somit indirekt auch Wohnraum) sind im Grunde genommen gar keine handelbare Ware, weil er begrenzt ist. Mit anderen Worten: Der Marktmechanismus mit Angebot und Nachfrage und dem daraus resultierenden Preis funktioniert bei Boden gar nicht. Der Markt kann es also gar nicht richten, weil es kein Markt ist ¯\\\\\\_(ツ)\\_/¯ \n\nSchön — und richtig! — finde ich den Schluss, den Thomas Jorberg von der GLS-Bank in dem kleinen Filmchen aufmacht: Wir müssen Wohnraum dem „Marktgeschehen“ entziehen und Wohnraum bzw. das Nutzungsrecht (Wohnen) in Genossenschaften oder gemeinnütziger Form weiterführen. Und das ist ja genau das, was die Kampagne #dwenteignen will! So, und jetzt lasst uns Vonovia und Co. ✨vergesellschaften✨ ✊💜💛\n",
+				"date_published": "2021-10-10T17:55:22+02:00",
+				"url": "https://zeitschlag.micro.blog/2021/10/10/ein-bisschen-lustig.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2021/06/27/for-the-first.html",
+				
+				"content_html": "<p>For the first time in ages I went to a concert yesterday. It was outdoors, of course. There were <a href=\"https://www.digitalinberlin.de/kiezsalon-gardens-of-the-world-2021/\">four great musicians</a> performing in the “Gardens of the World”-park in Berlin, one of them being <a href=\"http://aliciaedelweiss.com/\">Alicia Edelweiss</a> whose album I bought <a href=\"https://zeitschlag.blog/2020/10/27/155553.html\">more than one year ago</a>. Since then I spent countless hours listening to the music while wandering through the city.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "For the first time in ages I went to a concert yesterday. It was outdoors, of course. There were [four great musicians](https://www.digitalinberlin.de/kiezsalon-gardens-of-the-world-2021/) performing in the “Gardens of the World”-park in Berlin, one of them being [Alicia Edelweiss](http://aliciaedelweiss.com/) whose album I bought [more than one year ago](https://zeitschlag.blog/2020/10/27/155553.html). Since then I spent countless hours listening to the music while wandering through the city.\n\n<img src=\"uploads/2021/fd7f40d2df.jpg\" alt=\"\" />\n",
+				"date_published": "2021-06-27T10:49:18+02:00",
+				"url": "https://zeitschlag.micro.blog/2021/06/27/for-the-first.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2021/05/24/i-had-take.html",
+				
+				"content_html": "<p>I had to take two weeks off and as there’s still a pandemic going on, I’ve stayed in Berlin. Today the weather was great and I rode my bike for 75-ish kilometers — that’s probably at least a 100 miles or so, I guess.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I had to take two weeks off and as there’s still a pandemic going on, I’ve stayed in Berlin. Today the weather was great and I rode my bike for 75-ish kilometers — that’s probably at least a 100 miles or so, I guess.\n\n<img src=\"uploads/2021/07044ecbb5.jpg\" />\n",
+				"date_published": "2021-05-24T22:34:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2021/05/24/i-had-take.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2021/05/14/as-this-seems.html",
+				
+				"content_html": "<p>As this seems to be my food blog and poor man’s instagram, this is <em>the</em> place to mention this: For the last couple of weeks I’ve had a huge craving for instant noodles. You know, these cheap convenience food packages from the Asian grocery store around the corner. Tonight’s dinner will be the DIY-version of that, kind of. Without this artificial seasoning and stuff. But with a truckload of instant noodles, of course.</p>\n",
+				"content_text": "As this seems to be my food blog and poor man’s instagram, this is _the_ place to mention this: For the last couple of weeks I’ve had a huge craving for instant noodles. You know, these cheap convenience food packages from the Asian grocery store around the corner. Tonight’s dinner will be the DIY-version of that, kind of. Without this artificial seasoning and stuff. But with a truckload of instant noodles, of course.\n",
+				"date_published": "2021-05-14T18:40:54+02:00",
+				"url": "https://zeitschlag.micro.blog/2021/05/14/as-this-seems.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2021/05/12/203119.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2021/4742d58c1a.jpg\" alt=\"Blurry picture of a bridge over a river in new york.\" />\n",
+				"date_published": "2021-05-12T20:31:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2021/05/12/203119.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2021/05/02/more-than-one.html",
+				
+				"content_html": "<p>More than one year ago I visited a very dear friend in Switzerland. We drove into the Alps and went for a little walk near the middle of nowhere. A few minutes ago I found some pictures from that short vacation.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "More than one year ago I visited a very dear friend in Switzerland. We drove into the Alps and went for a little walk near the middle of nowhere. A few minutes ago I found some pictures from that short vacation.\n\n<img src=\"uploads/2021/3ad2ba2fc1.jpg\"/>\n<img src=\"uploads/2021/9260ffac12.jpg\"/>\n",
+				"date_published": "2021-05-02T13:50:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2021/05/02/more-than-one.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2021/04/01/i-went-for.html",
+				
+				"content_html": "<p>I went for a walk this morning and saw this tree.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I went for a walk this morning and saw this tree.\n\n<img src=\"uploads/2021/41ce751ae2.jpg\" alt=\"\" />\n",
+				"date_published": "2021-04-01T17:17:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2021/04/01/i-went-for.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2021/02/08/a-very-dear.html",
+				
+				"content_html": "<p>A very dear friend of mine sent me a jar of homemade rocket pesto, together with a recipe how they like it, with roasted tomates and candied nuts. It was super delicious — I cooked — and ate! — it as dinner yesterday.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A very dear friend of mine sent me a jar of homemade rocket pesto, together with a recipe how they like it, with roasted tomates and candied nuts. It was super delicious — I cooked — and ate! — it as dinner yesterday.\n\n<img src=\"uploads/2021/fb01051459.jpg\"/>\n",
+				"date_published": "2021-02-08T12:29:43+02:00",
+				"url": "https://zeitschlag.micro.blog/2021/02/08/a-very-dear.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2021/01/02/in-i-visited.html",
+				
+				"content_html": "<p>In 2016 I visited the United States and I just found some pictures from Manhattan I took back then:</p>\n<!-- raw HTML omitted -->\n<p>I just feel like I want to share them and I&rsquo;m really looking forward to flying to the city again once the pandemic is over.</p>\n",
+				"content_text": "In 2016 I visited the United States and I just found some pictures from Manhattan I took back then:\n\n<img src=\"uploads/2021/786c860ccf.jpg\"  />\n<img src=\"uploads/2021/3e7c15b319.jpg\" />\n<img src=\"uploads/2021/610778781e.jpg\" />\n<img src=\"uploads/2021/34acb4b16a.jpg\" />\n<img src=\"uploads/2021/faacdf4e91.jpg\" />\n\nI just feel like I want to share them and I'm really looking forward to flying to the city again once the pandemic is over.\n",
+				"date_published": "2021-01-02T23:03:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2021/01/02/in-i-visited.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/12/25/i-had-some.html",
+				
+				"content_html": "<p>I had some Kässpätzle yesterday. For the first time ever, I made one of my most favorite dishes completely on my own with nothing but flour, water, eggs, and some cheese. A ton of cheese, to be honest. Think of Kässpätzle as German Mac’n’Cheese with Swiss Cheese and special pasta.</p>\n<p>It was great.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I had some Kässpätzle yesterday. For the first time ever, I made one of my most favorite dishes completely on my own with nothing but flour, water, eggs, and some cheese. A ton of cheese, to be honest. Think of Kässpätzle as German Mac’n’Cheese with Swiss Cheese and special pasta. \n\nIt was great.\n\n<img src=\"uploads/2020/4150aa4597.jpg\" />\n",
+				"date_published": "2020-12-25T16:18:45+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/12/25/i-had-some.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/11/14/sky-was-beautiful.html",
+				
+				"content_html": "<p>Sky was beautiful today.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sky was beautiful today. \n\n<img src=\"uploads/2020/c89dc9b3d7.jpg\" />\n",
+				"date_published": "2020-11-14T23:00:23+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/11/14/sky-was-beautiful.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/11/08/i-made-some.html",
+				
+				"content_html": "<p>I made some vegan cookies today. They&rsquo;re basically peanut butter, chocolate, some flour and oat flakes.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I made some vegan cookies today. They're basically peanut butter, chocolate, some flour and oat flakes.\n\n<img src=\"uploads/2020/6ad8f43067.jpg\" />\n",
+				"date_published": "2020-11-08T01:19:56+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/11/08/i-made-some.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/10/27/155553.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2020/ac1e88e388.jpg\"/>\n",
+				"date_published": "2020-10-27T15:55:53+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/10/27/155553.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/10/22/spotibye.html",
+				"title": "Spoti-bye",
+				"content_html": "<p>In 2006 I bought my first CD ever: <a href=\"https://en.wikipedia.org/wiki/Stadium_Arcadium\">Stadium Arcadium</a> by Red Hot Chili Peppers. A few years later, the Internet did its thing and I stopped paying for music for several years. Around 2012 or so I started using <a href=\"https://en.wikipedia.org/wiki/Spotify\">Spotify</a> and had it since then with some years of <a href=\"https://en.wikipedia.org/wiki/Apple_Music\">Apple Music</a> in between. Over all those years I discovered lots of great artists and listened to a huge number of songs, a lot of them are connected to people the once were or still are part of my life.</p>\n<p>Six months ago, I heard a song by Austrian musician <a href=\"http://aliciaedelweiss.com\">Alicia Edelweiss</a> and <a href=\"https://aliciaedelweiss.bandcamp.com\">bought the whole album</a> instantly. You have to support artists during the pandemic, I told myself.</p>\n<!-- raw HTML omitted -->\n<p>A few days ago I cancelled my Spotify-subscription. There are several reasons for this step:</p>\n<ul>\n<li>From what I&rsquo;ve heard, music streaming is a pretty bad deal for artists in general. You have to support artists, especially now. This might be more expensive, but I hope, that the music will be worth it, literally.</li>\n<li>It feels like that I&rsquo;ve listened to way too much music during the last years. Music became a background noise, I mostly listen to it during the day, during work. And while having access to music anytime is great, I somehow lost connection to the music itself, it&rsquo;s nothing special anymore. I want to know the music, value its details, enjoy it consciensly, dance to it, make it something special.</li>\n<li>I want to own my music. I want to have a CD I can share with friends, for example, even if I&rsquo;m broke.</li>\n</ul>\n<p>And now you have to excuse me. There&rsquo;s some music that needs my attention. Or is it me needing the music&rsquo;s attention? Does it matter?</p>\n",
+				"content_text": "In 2006 I bought my first CD ever: [Stadium Arcadium](https://en.wikipedia.org/wiki/Stadium_Arcadium) by Red Hot Chili Peppers. A few years later, the Internet did its thing and I stopped paying for music for several years. Around 2012 or so I started using [Spotify](https://en.wikipedia.org/wiki/Spotify) and had it since then with some years of [Apple Music](https://en.wikipedia.org/wiki/Apple_Music) in between. Over all those years I discovered lots of great artists and listened to a huge number of songs, a lot of them are connected to people the once were or still are part of my life.\n\nSix months ago, I heard a song by Austrian musician [Alicia Edelweiss](http://aliciaedelweiss.com) and [bought the whole album](https://aliciaedelweiss.bandcamp.com) instantly. You have to support artists during the pandemic, I told myself. \n\n<img src=\"uploads/2020/c397ac9298.jpg\"/>\n\nA few days ago I cancelled my Spotify-subscription. There are several reasons for this step:\n\n- From what I've heard, music streaming is a pretty bad deal for artists in general. You have to support artists, especially now. This might be more expensive, but I hope, that the music will be worth it, literally.\n- It feels like that I've listened to way too much music during the last years. Music became a background noise, I mostly listen to it during the day, during work. And while having access to music anytime is great, I somehow lost connection to the music itself, it's nothing special anymore. I want to know the music, value its details, enjoy it consciensly, dance to it, make it something special.\n- I want to own my music. I want to have a CD I can share with friends, for example, even if I'm broke.\n\nAnd now you have to excuse me. There's some music that needs my attention. Or is it me needing the music's attention? Does it matter?\n\n",
+				"date_published": "2020-10-22T23:33:39+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/10/22/spotibye.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/10/10/i-just-saw.html",
+				
+				"content_html": "<p>I just saw <a href=\"https://en.wikipedia.org/wiki/Knives_Out\">Knives Out</a>. Being pretty entertaining with some unexpected twists, a great storystelling and awesome actors I really enjoyed this movie. 🎥🍿</p>\n",
+				"content_text": "I just saw [Knives Out](https://en.wikipedia.org/wiki/Knives_Out). Being pretty entertaining with some unexpected twists, a great storystelling and awesome actors I really enjoyed this movie. 🎥🍿\n",
+				"date_published": "2020-10-10T22:13:08+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/10/10/i-just-saw.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/10/07/zotrine-is-a.html",
+				
+				"content_html": "<p><a href=\"https://kolle-mate.de/zotrine/\">zotrine</a> is a lemonade made by a collective in Dresden, Germany. They don’t put shit in there and so zotrine is one if my favorite drinks. Also they print stuff on the back of the sticker on the bottles. You can see them, when you drank like at least half the bottle. Today I found this important great little piece of art.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[zotrine](https://kolle-mate.de/zotrine/) is a lemonade made by a collective in Dresden, Germany. They don’t put shit in there and so zotrine is one if my favorite drinks. Also they print stuff on the back of the sticker on the bottles. You can see them, when you drank like at least half the bottle. Today I found this important great little piece of art.\n\n<img src=\"uploads/2020/a38538dc76.jpg\" />\n",
+				"date_published": "2020-10-07T14:31:49+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/10/07/zotrine-is-a.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/10/06/okay-lets-face.html",
+				
+				"content_html": "<p>Okay, let’s face it: Neither am I good at drawing nor have I any idea what a <a href=\"https://en.wikipedia.org/wiki/Rodent\">rodent</a> looks like.</p>\n<p>But both didn’t stop me from drawing one for Inktober 🤓😅 I seriously doubt though that this friendly folk would even survive in the wild.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Okay, let’s face it: Neither am I good at drawing nor have I any idea what a [rodent](https://en.wikipedia.org/wiki/Rodent) looks like.\n\nBut both didn’t stop me from drawing one for Inktober 🤓😅 I seriously doubt though that this friendly folk would even survive in the wild.\n\n<img src=\"uploads/2020/7c097053a0.jpg\">\n",
+				"date_published": "2020-10-06T22:57:26+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/10/06/okay-lets-face.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/10/05/last-year-i.html",
+				
+				"content_html": "<p>Last year I went hiking in the <a href=\"https://en.wikipedia.org/wiki/Palatinate_Forest\">Palatinate Forest</a>. It was amazing!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Last year I went hiking in the [Palatinate Forest](https://en.wikipedia.org/wiki/Palatinate_Forest). It was amazing!\n\n<img src=\"uploads/2020/572626d837.jpg\"/>\n",
+				"date_published": "2020-10-05T22:31:40+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/10/05/last-year-i.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/10/04/i-took-a.html",
+				
+				"content_html": "<p>I took a walk and a picture.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I took a walk and a picture.\n\n<img src=\"uploads/2020/6208fd336a.jpg\">\n",
+				"date_published": "2020-10-04T19:17:06+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/10/04/i-took-a.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/10/04/im-a-bit.html",
+				
+				"content_html": "<p>I&rsquo;m a bit late — as always — but I decided to participate in this year&rsquo;s Inktober. I&rsquo;d like to present to you: The Radio!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'm a bit late — as always — but I decided to participate in this year's Inktober. I'd like to present to you: The Radio! \n\n<img src=\"uploads/2020/fa0dae585f.jpg\">\n",
+				"date_published": "2020-10-04T16:40:20+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/10/04/im-a-bit.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/10/04/125941.html",
+				
+				"content_html": "<p>Usually I use my iPad to read RSS feeds or comic books or watch movies. Since a few days I&rsquo;m reading the probably most famous <a href=\"https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years\">book by anthropologist David Graeber</a>. I really enjoy it and for the first time I take notes in the exact same book using Apple Pencil. While I read the book in German, I write my notes in English so that I can <a href=\"https://zeitschlag.blog/2020/09/18/on-scribble-on.html\">scribble</a> them. Taking notes this way is really fun!</p>\n<p>Back in school teacher always told us that you didn&rsquo;t <em>really</em> read a book unless you wrote notes in it or marked the most important or interesting parts.</p>\n<p>Oh, the book is also interesting to read, although sometimes it feels quite academic and I&rsquo;m not used to this at all.</p>\n",
+				"content_text": "Usually I use my iPad to read RSS feeds or comic books or watch movies. Since a few days I'm reading the probably most famous [book by anthropologist David Graeber](https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years). I really enjoy it and for the first time I take notes in the exact same book using Apple Pencil. While I read the book in German, I write my notes in English so that I can [scribble](https://zeitschlag.blog/2020/09/18/on-scribble-on.html) them. Taking notes this way is really fun! \n\nBack in school teacher always told us that you didn't _really_ read a book unless you wrote notes in it or marked the most important or interesting parts.\n\nOh, the book is also interesting to read, although sometimes it feels quite academic and I'm not used to this at all.\n",
+				"date_published": "2020-10-04T12:59:41+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/10/04/125941.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/10/02/together-with-several.html",
+				
+				"content_html": "<p>Together with several hundred people I attended a leftist, antifascist demonstration in Berlin. Afterwards I watched the most recent episode of <a href=\"https://en.wikipedia.org/wiki/The_Boys_(2019_TV_series)\">The Boys</a> — I&rsquo;m so full of contradictions — and wanted to do some programming now. But I&rsquo;m way too tired and should go to bed.</p>\n<p>All in all it was a great evening though.</p>\n",
+				"content_text": "Together with several hundred people I attended a leftist, antifascist demonstration in Berlin. Afterwards I watched the most recent episode of [The Boys](https://en.wikipedia.org/wiki/The_Boys_(2019_TV_series)) — I'm so full of contradictions — and wanted to do some programming now. But I'm way too tired and should go to bed.\r\n\r\nAll in all it was a great evening though.\n",
+				"date_published": "2020-10-02T23:55:50+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/10/02/together-with-several.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/30/i-havent-used.html",
+				
+				"content_html": "<p>I haven’t used Twitter for some weeks now — I actually deactivated my account — and I don’t miss it at all. Sure, I miss a thing or two and some friends, but it’s so much less stressful without the constant stream of information and opinions.</p>\n",
+				"content_text": "I haven’t used Twitter for some weeks now — I actually deactivated my account — and I don’t miss it at all. Sure, I miss a thing or two and some friends, but it’s so much less stressful without the constant stream of information and opinions.\n",
+				"date_published": "2020-09-30T16:58:08+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/30/i-havent-used.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/29/ich-kritisier-und.html",
+				
+				"content_html": "<blockquote>\n<p>[Ich] Kritisier und du schreist „Zensur!“ immer der gleiche Mist\nWill dir nichts verbieten, will nur sagen, dass du Scheiße bist</p>\n</blockquote>\n<p>Aus: <a href=\"https://open.spotify.com/track/29lkx3SeFYWF6pzMhv7b9p\">In Flammen von Neonschwarz</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "> \\[Ich\\] Kritisier und du schreist „Zensur!“ immer der gleiche Mist\n> Will dir nichts verbieten, will nur sagen, dass du Scheiße bist\n\nAus: [In Flammen von Neonschwarz](https://open.spotify.com/track/29lkx3SeFYWF6pzMhv7b9p)\n\n<img src=\"uploads/2020/96c6c01741.jpg\">\n",
+				"date_published": "2020-09-29T21:50:34+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/29/ich-kritisier-und.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/29/so-microblog-is.html",
+				
+				"content_html": "<p>So, Micro.blog 2.0 is here, obviously, and I just upgraded my account — the new <a href=\"https://news.micro.blog/2020/09/22/bookmarks-and-highlights.html\">bookmarking-feature</a> convinced me to give it a try.</p>\n<p><img src=\"https://zeitschlag.micro.blog/uploads/2020/1d292091c5.png\" alt=\"\"></p>\n",
+				"content_text": "So, Micro.blog 2.0 is here, obviously, and I just upgraded my account — the new [bookmarking-feature](https://news.micro.blog/2020/09/22/bookmarks-and-highlights.html) convinced me to give it a try.\n\n![](https://zeitschlag.micro.blog/uploads/2020/1d292091c5.png)\n",
+				"date_published": "2020-09-29T19:57:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/29/so-microblog-is.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/28/together-with-my.html",
+				
+				"content_html": "<p>Together with my best friend I&rsquo;m recording a <a href=\"https://codestammtis.ch\">German podcast about all things software development</a> — we&rsquo;re both software developers. And every episode we drink a beverage we never had before. When we&rsquo;re done with the drink, we rate it and the episode&rsquo;s over.</p>\n<p>Today I went to a local store called <em><a href=\"https://www.getraenkefeinkost.de\">Getränkefeinkost</a></em> which was recommended to me by a former guest of the podcast. It&rsquo;s a delicatessen store for beverages — craft beer, special lemonades and so on. They also sell my favorite cola, <em><a href=\"https://en.wikipedia.org/wiki/Premium-Cola\">Premium-Cola</a></em>, a soft drink made by a small collective and I&rsquo;m a fan of them, their drinks and their way of doing business.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Together with my best friend I'm recording a [German podcast about all things software development](https://codestammtis.ch) — we're both software developers. And every episode we drink a beverage we never had before. When we're done with the drink, we rate it and the episode's over.\n\nToday I went to a local store called *[Getränkefeinkost](https://www.getraenkefeinkost.de)* which was recommended to me by a former guest of the podcast. It's a delicatessen store for beverages — craft beer, special lemonades and so on. They also sell my favorite cola, *[Premium-Cola](https://en.wikipedia.org/wiki/Premium-Cola)*, a soft drink made by a small collective and I'm a fan of them, their drinks and their way of doing business.\n\n<img src=\"uploads/2020/4305ac8e68.jpg\">\n",
+				"date_published": "2020-09-28T15:56:45+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/28/together-with-my.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/26/i-just-homemade.html",
+				
+				"content_html": "<p>I just home-made some strawberry jam. For the first time ever — I’m so excited how it’s going to taste!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I just home-made some strawberry jam. For the first time ever — I’m so excited how it’s going to taste!\n\n<img src=\"uploads/2020/9cc5bf8e42.jpg\">\n",
+				"date_published": "2020-09-26T18:49:38+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/26/i-just-homemade.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/25/i-really-enjoyed.html",
+				
+				"content_html": "<p>I really enjoyed livestreaming iOS-programming, especially, that I have to constantly think about my work when I talk about it on the Internet. So I&rsquo;d love to do it again. But for tonight, I&rsquo;m too tired. 😴</p>\n<p>So: Join me tomorrow at 9 p.m. Berlin time (it&rsquo;s UTC+2) on <a href=\"https://twitch.tv/zeitschlag\">Twitch</a> 🙂</p>\n<p>And don&rsquo;t forget to treat yourself with some snacks 🍪🍫🍿🥜 and a drink 🥃🥤🍺🧉</p>\n",
+				"content_text": "I really enjoyed livestreaming iOS-programming, especially, that I have to constantly think about my work when I talk about it on the Internet. So I'd love to do it again. But for tonight, I'm too tired. 😴\n\nSo: Join me tomorrow at 9 p.m. Berlin time (it's UTC+2) on [Twitch](https://twitch.tv/zeitschlag) 🙂\n\nAnd don't forget to treat yourself with some snacks 🍪🍫🍿🥜 and a drink 🥃🥤🍺🧉\n\n",
+				"date_published": "2020-09-25T23:16:15+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/25/i-really-enjoyed.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/25/well-the-thirtyminutestream.html",
+				
+				"content_html": "<p>Well, those <a href=\"https://zeitschlag.blog/2020/09/24/watch-me-on.html\">thirty minutes</a> turned out to be two hours. In the end, I created another small <a href=\"https://github.com/microdotblog/sunlit/pull/114\">Pull Request</a> for Sunlit. Oh, and for the first time ever I spoke English on the Internet! In a livestream! On the Internet!</p>\n",
+				"content_text": "Well, those [thirty minutes](https://zeitschlag.blog/2020/09/24/watch-me-on.html) turned out to be two hours. In the end, I created another small [Pull Request](https://github.com/microdotblog/sunlit/pull/114) for Sunlit. Oh, and for the first time ever I spoke English on the Internet! In a livestream! On the Internet!\n",
+				"date_published": "2020-09-25T00:17:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/25/well-the-thirtyminutestream.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/24/watch-me-on.html",
+				
+				"content_html": "<p>Watch me on <a href=\"https://www.twitch.tv/zeitschlag\">Twitch</a> how I try to fix some bugs in <a href=\"https://sunlit.io\">Sunlit</a> for the next thirty minutes or so.</p>\n",
+				"content_text": "Watch me on [Twitch](https://www.twitch.tv/zeitschlag) how I try to fix some bugs in [Sunlit](https://sunlit.io) for the next thirty minutes or so.\n",
+				"date_published": "2020-09-24T22:05:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/24/watch-me-on.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/24/i-guess-i.html",
+				
+				"content_html": "<p>I guess, I won’t be lonely tonight.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I guess, I won’t be lonely tonight.\n\n<img src=\"uploads/2020/96678454c2.jpg\">\n",
+				"date_published": "2020-09-24T18:17:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/24/i-guess-i.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/24/i-guess-that.html",
+				
+				"content_html": "<p>I guess, that <a href=\"https://github.com/microdotblog/sunlit/pull/110\">this merged PR for Sunlit</a> makes me an open-source-developer now 🥳😅</p>\n<p>It actually feels nice as contributing to an open-source-project has been on my bucket list for 2020.</p>\n",
+				"content_text": "I guess, that [this merged PR for Sunlit](https://github.com/microdotblog/sunlit/pull/110) makes me an open-source-developer now 🥳😅\n\nIt actually feels nice as contributing to an open-source-project has been on my bucket list for 2020.\n",
+				"date_published": "2020-09-24T08:59:28+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/24/i-guess-that.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/23/im-struggeling-with.html",
+				
+				"content_html": "<p>I&rsquo;m struggeling with the new Sleep Schedule in iOS 14. I&rsquo;m wearing my Watch to track my sleep, but I want the alarm to go off on my iPhone so that I have to stand up to disable it. This was possible prior to iOS 14, but now it looks like that I must rely on the Watch for alarms when using the Sleep Schedule. This sucks, seriously.</p>\n<p><img src=\"https://zeitschlag.micro.blog/uploads/2020/96a66576f5.jpg\" alt=\"23BD148A-4B3C-4A22-9829-58F9193B8D56.jpg\"></p>\n<p>Thankfully the Clock-app is still there so tomorrow I will try again not to oversleep.</p>\n<p>Does any of you know how to use this Sleep-thing with a Watch, but with alarms going off on an iPhone?</p>\n",
+				"content_text": "I'm struggeling with the new Sleep Schedule in iOS 14. I'm wearing my Watch to track my sleep, but I want the alarm to go off on my iPhone so that I have to stand up to disable it. This was possible prior to iOS 14, but now it looks like that I must rely on the Watch for alarms when using the Sleep Schedule. This sucks, seriously. \n\n![23BD148A-4B3C-4A22-9829-58F9193B8D56.jpg](https://zeitschlag.micro.blog/uploads/2020/96a66576f5.jpg)\n\nThankfully the Clock-app is still there so tomorrow I will try again not to oversleep.\n\nDoes any of you know how to use this Sleep-thing with a Watch, but with alarms going off on an iPhone?\n",
+				"date_published": "2020-09-23T07:51:37+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/23/im-struggeling-with.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/22/today-i-cycled.html",
+				
+				"content_html": "<p>Today I cycled through the city and stopped at <a href=\"https://en.wikipedia.org/wiki/Charlottenburg_Palace\">Charlottenburg Palace</a>. I took a little walk in the park and it was quite lovely.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today I cycled through the city and stopped at [Charlottenburg Palace](https://en.wikipedia.org/wiki/Charlottenburg_Palace). I took a little walk in the park and it was quite lovely.\n\n<img src=\"uploads/2020/c739e9cf14.jpg\">\n",
+				"date_published": "2020-09-22T21:30:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/22/today-i-cycled.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/21/my-iphone-just.html",
+				
+				"content_html": "<p>My iPhone just showed me this sunset from nearly five years ago. In this exact moment I decided to keep the &ldquo;Featured Photos&rdquo;-widget although I&rsquo;m aware of that the memories attached to lot of pictures will hurt from time to time. 📷</p>\n<p><img src=\"https://zeitschlag.micro.blog/uploads/2020/83f941298e.jpg\" alt=\"\"></p>\n",
+				"content_text": "My iPhone just showed me this sunset from nearly five years ago. In this exact moment I decided to keep the \"Featured Photos\"-widget although I'm aware of that the memories attached to lot of pictures will hurt from time to time. 📷\n\n![](https://zeitschlag.micro.blog/uploads/2020/83f941298e.jpg)\n",
+				"date_published": "2020-09-21T19:45:01+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/21/my-iphone-just.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/21/i-just-watched.html",
+				
+				"content_html": "<p>I just watched a man <a href=\"https://www.youtube.com/watch?v=8Ch2vBkVUQQ\">hiking 100 miles alone in Alaska</a>. This twenty minute video was so relaxing and I really enjoyed it, well, except for the regular, numerous interruptions by Youtube-ads. Those just pissed me off. Regularly.</p>\n",
+				"content_text": "I just watched a man [hiking 100 miles alone in Alaska](https://www.youtube.com/watch?v=8Ch2vBkVUQQ). This twenty minute video was so relaxing and I really enjoyed it, well, except for the regular, numerous interruptions by Youtube-ads. Those just pissed me off. Regularly.\n",
+				"date_published": "2020-09-21T10:10:09+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/21/i-just-watched.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/18/on-scribble-on.html",
+				"title": "On Scribble on iPadOS 14",
+				"content_html": "<p>Yesterday I downloaded iPadOS 14 and wanted to test the new Scribble-feature that converts handwritten text to, you know, text. And so I&rsquo;m writing this post (mostly) using my Apple Pencil and I have to admit that I&rsquo;m a bit impressed. It works pretty well-ish. So far I&rsquo;ve used an app called <a href=\"https://www.goodnotes.com\">Good Notes</a> to take handwritten notes, but there was no way to use the Pencil to enter text into textfields.</p>\n<p>Although it&rsquo;s nice at first glance, I&rsquo;m annoyed by a couple of things:</p>\n<ul>\n<li>The screen that introduces this feature is a mix of German and English as you can see in the screenshot I attached. I use my iPad in German and this might look like a minor detail, but to me, this is an important one. In my mind either nobody cared or QA failed and both cases make me a bit sad. Hopefully this feature is available for German, too. I will test it immediately 🤓\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/d3d5788f93.jpg\" alt=\"\"></li>\n<li>The second thing is that the underlying machine learning doesn&rsquo;t recognize some characters correctly or at all, yet. <em>1</em> and <em>I</em> are just one example, special characters are another. Maybe this improves over time?</li>\n<li>When something goes wrong, like when a typo appears or so, I don&rsquo;t know how to fix the error easily using the Pencil. I know that I can strike a word or whole paragraph to remove it but when it comes to changing just one letter, using the keyboard is far more convenient — and faster. Sometimes the text gets selected instead of being removed, this is another annoyance.</li>\n</ul>\n<p>In conclusion I&rsquo;d really like to like Scribble and maybe I should just give it a chance? If it fails the test of time I still can go back to my beloved keyboard.</p>\n<p><strong>Edit</strong>: I just found out, that English and Mandarin are the only supported languages at the moment. Hopefully this changes in the near future as I really like this feature! Reading a book and scribbling notes in there is just great!</p>\n",
+				"content_text": "Yesterday I downloaded iPadOS 14 and wanted to test the new Scribble-feature that converts handwritten text to, you know, text. And so I'm writing this post (mostly) using my Apple Pencil and I have to admit that I'm a bit impressed. It works pretty well-ish. So far I've used an app called [Good Notes](https://www.goodnotes.com) to take handwritten notes, but there was no way to use the Pencil to enter text into textfields.\n\nAlthough it's nice at first glance, I'm annoyed by a couple of things:\n\n- The screen that introduces this feature is a mix of German and English as you can see in the screenshot I attached. I use my iPad in German and this might look like a minor detail, but to me, this is an important one. In my mind either nobody cared or QA failed and both cases make me a bit sad. Hopefully this feature is available for German, too. I will test it immediately 🤓\n![](https://zeitschlag.micro.blog/uploads/2020/d3d5788f93.jpg)\n- The second thing is that the underlying machine learning doesn't recognize some characters correctly or at all, yet. *1* and *I* are just one example, special characters are another. Maybe this improves over time?\n- When something goes wrong, like when a typo appears or so, I don't know how to fix the error easily using the Pencil. I know that I can strike a word or whole paragraph to remove it but when it comes to changing just one letter, using the keyboard is far more convenient — and faster. Sometimes the text gets selected instead of being removed, this is another annoyance.\n\nIn conclusion I'd really like to like Scribble and maybe I should just give it a chance? If it fails the test of time I still can go back to my beloved keyboard.\n\n**Edit**: I just found out, that English and Mandarin are the only supported languages at the moment. Hopefully this changes in the near future as I really like this feature! Reading a book and scribbling notes in there is just great!\n",
+				"date_published": "2020-09-18T11:29:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/18/on-scribble-on.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/17/234106.html",
+				
+				"content_html": "<p>📷</p>\n<p><img src=\"https://zeitschlag.micro.blog/uploads/2020/465e6bf649.jpg\" alt=\"\"></p>\n",
+				"content_text": "📷\n\n![](https://zeitschlag.micro.blog/uploads/2020/465e6bf649.jpg)\n",
+				"date_published": "2020-09-17T23:41:06+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/17/234106.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/17/as-promised-heres.html",
+				
+				"content_html": "<p>As promised: Here&rsquo;s another picture from the Festival of Light. It&rsquo;s the <a href=\"https://en.wikipedia.org/wiki/Berlin_Cathedral\">Berlin Cathedral</a>.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "As promised: Here's another picture from the Festival of Light. It's the [Berlin Cathedral](https://en.wikipedia.org/wiki/Berlin_Cathedral).\n\n<img src=\"uploads/2020/1278439850.jpg\" width=\"720\" height=\"720\" alt=\"\" />\n",
+				"date_published": "2020-09-17T00:13:28+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/17/as-promised-heres.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/16/the-festival-of.html",
+				
+				"content_html": "<p>The festival of lights is happening in Berlin again 🌃. This means, that I will ride my bike tonight to see some more of it.</p>\n<p><img src=\"https://zeitschlag.micro.blog/uploads/2020/0856664037.jpg\" alt=\"\"></p>\n",
+				"content_text": "The festival of lights is happening in Berlin again 🌃. This means, that I will ride my bike tonight to see some more of it.\n\n![](https://zeitschlag.micro.blog/uploads/2020/0856664037.jpg)\n",
+				"date_published": "2020-09-16T07:53:10+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/16/the-festival-of.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/15/i-took-a.html",
+				
+				"content_html": "<p>I took a walk in the forest and apperently, there‘s some kind of art exhibition going on. At least I was a bit surprised to see three human sized bird boxes with bird names.</p>\n<p><img src=\"https://zeitschlag.micro.blog/uploads/2020/c317205c92.jpg\" alt=\"\"></p>\n",
+				"content_text": "I took a walk in the forest and apperently, there‘s some kind of art exhibition going on. At least I was a bit surprised to see three human sized bird boxes with bird names.\n\n![](https://zeitschlag.micro.blog/uploads/2020/c317205c92.jpg)\n",
+				"date_published": "2020-09-15T08:47:33+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/15/i-took-a.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/04/sorry-strava.html",
+				"title": "Sorry, Strava",
+				"content_html": "<p>Until a few weeks ago, I used <a href=\"https://en.wikipedia.org/wiki/Strava\">Strava</a> to track my cycling and running. Seeing how far and how much I&rsquo;ve ran really motivates me. Yeah, those ads for the <a href=\"https://www.strava.com/subscribe\">Strava Subscription</a> started getting on my nerves, but you know, giving kudos to friends and seeing some basic stats like the comparison among weeks made it worth nevertheless. Until a few weeks ago.</p>\n<p>I imagine, that the investors told Strava to earn some more money, so they hired some growth hackers and then everything turned to shit. Those stats for example, how far I ran the past week? They&rsquo;re gone. I gotta pay for them now. Like monthly. That&rsquo;s a pitty, because to me, who runs once or twice a week, those stats are not worth more than like a buck or two.</p>\n<p>Paying 60 bucks per year or 15 per month is way over the amount I&rsquo;m willing to pay, so: Sorry Strava, I moved on and started using <a href=\"https://apps.apple.com/de/app/aktivit%C3%A4t/id1208224953\">Activity</a> with my Apple watch. There might be a small iOS-app incoming.</p>\n",
+				"content_text": "Until a few weeks ago, I used [Strava](https://en.wikipedia.org/wiki/Strava) to track my cycling and running. Seeing how far and how much I've ran really motivates me. Yeah, those ads for the [Strava Subscription](https://www.strava.com/subscribe) started getting on my nerves, but you know, giving kudos to friends and seeing some basic stats like the comparison among weeks made it worth nevertheless. Until a few weeks ago.\n\nI imagine, that the investors told Strava to earn some more money, so they hired some growth hackers and then everything turned to shit. Those stats for example, how far I ran the past week? They're gone. I gotta pay for them now. Like monthly. That's a pitty, because to me, who runs once or twice a week, those stats are not worth more than like a buck or two.\n\nPaying 60 bucks per year or 15 per month is way over the amount I'm willing to pay, so: Sorry Strava, I moved on and started using [Activity](https://apps.apple.com/de/app/aktivit%C3%A4t/id1208224953) with my Apple watch. There might be a small iOS-app incoming.\n",
+				"date_published": "2020-09-04T14:35:17+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/04/sorry-strava.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/09/02/195843.html",
+				"title": "I took another picture.",
+				"content_html": "<p><img src=\"https://zeitschlag.micro.blog/uploads/2020/7c0c028944.jpg\" alt=\"\"></p>\n",
+				"content_text": "![](https://zeitschlag.micro.blog/uploads/2020/7c0c028944.jpg)\n",
+				"date_published": "2020-09-02T19:58:43+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/09/02/195843.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/08/12/the-last-couple.html",
+				
+				"content_html": "<p>The last couple of weeks have felt odd. I&rsquo;m not sure about the reasons: Is it the pandemic? Stress? Some mental health issues? All of it? No idea. ¯\\_(ツ)_/¯</p>\n<p>This morning I noticed, that I didn&rsquo;t listen to <em>a single</em> podcast episodes during this time — and so I opened Overcast and listened to the <a href=\"https://www.relay.fm/radar/196\">not-so-secret plans of Marco Arment and _davidsmith</a> and two short episodes of <a href=\"https://darfsiedas.at/\">Darf sie das?</a>, a very interesting podcast by an Austrian freelance journalist about feminism and society.</p>\n<p>I missed this, to be honest.</p>\n",
+				"content_text": "The last couple of weeks have felt odd. I'm not sure about the reasons: Is it the pandemic? Stress? Some mental health issues? All of it? No idea. ¯\\\\_(ツ)\\_/¯\r\n\r\nThis morning I noticed, that I didn't listen to _a single_ podcast episodes during this time — and so I opened Overcast and listened to the [not-so-secret plans of Marco Arment and \\_davidsmith](https://www.relay.fm/radar/196) and two short episodes of [Darf sie das?](https://darfsiedas.at/), a very interesting podcast by an Austrian freelance journalist about feminism and society.\r\n\r\nI missed this, to be honest.\n",
+				"date_published": "2020-08-12T13:56:23+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/08/12/the-last-couple.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/08/09/its-summer-during.html",
+				
+				"content_html": "<p>It&rsquo;s summer during a pandemic/climate crisis. And so it&rsquo;s getting pretty hot. Today I went to a park with some trees and it feels like nature&rsquo;s AC.</p>\n<p><img src=\"https://zeitschlag.micro.blog/uploads/2020/40ce110739.jpg\" alt=\"Some trees with some blue sky\"></p>\n",
+				"content_text": "It's summer during a pandemic/climate crisis. And so it's getting pretty hot. Today I went to a park with some trees and it feels like nature's AC.\n\n![Some trees with some blue sky](https://zeitschlag.micro.blog/uploads/2020/40ce110739.jpg)\n",
+				"date_published": "2020-08-09T17:33:48+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/08/09/its-summer-during.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/07/27/when-i-arrived.html",
+				
+				"content_html": "<p>When I arrived back home yesterday, I went for little walk in the evening after some heavy rain.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "When I arrived back home yesterday, I went for little walk in the evening after some heavy rain. \n\n<img src=\"uploads/2020/da42751306.jpg\" />\n",
+				"date_published": "2020-07-27T18:11:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/07/27/when-i-arrived.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/07/26/from-the-mountains.html",
+				"title": "From the mountains to the sea",
+				"content_html": "<p>I took another week off from work, filed my taxes and spent the last couple of days close to the <a href=\"https://en.m.wikipedia.org/wiki/Baltic_Sea\">Baltic Sea</a>. Earlier this year I made a promise: I want to go there by bike. And so I did. I stayed at the flat of a friend and took care of their plants in exchange. On friday, I jumped on my bicycle and went off to the sea. After like 40 kilometers, I suffered from a flat tire in the middle of nowhere, but thankfully the parents of another very dear friend drove me back to the city. And so I spent the afternoon fixing my bike. On saturday, I even attended a small cruise for like 15 minutes. Then the ferry arrived at the final stop.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I took another week off from work, filed my taxes and spent the last couple of days close to the [Baltic Sea](https://en.m.wikipedia.org/wiki/Baltic_Sea). Earlier this year I made a promise: I want to go there by bike. And so I did. I stayed at the flat of a friend and took care of their plants in exchange. On friday, I jumped on my bicycle and went off to the sea. After like 40 kilometers, I suffered from a flat tire in the middle of nowhere, but thankfully the parents of another very dear friend drove me back to the city. And so I spent the afternoon fixing my bike. On saturday, I even attended a small cruise for like 15 minutes. Then the ferry arrived at the final stop.\n\n<img src=\"uploads/2020/77a070d58c.jpg\" />\n<img src=\"uploads/2020/466fdcb28d.jpg\" />\n<img src=\"uploads/2020/519ff73976.jpg\" />\n<img src=\"uploads/2020/35644a7c93.jpg\" />\n",
+				"date_published": "2020-07-26T21:59:32+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/07/26/from-the-mountains.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/07/07/on-last-saturday.html",
+				
+				"content_html": "<p>On last saturday I volunteered at the local foodbank, <a href=\"https://zeitschlag.blog/2020/06/07/a-few-months.html\">again</a>. And I got a little tart as dessert. It was so good 🤤🤤🤤</p>\n<p>Guess who&rsquo;s on the way to a coffeeshop around the corner to grab a New York Style Cheese Cake.</p>\n<p><img src=\"https://zeitschlag.micro.blog/uploads/2020/1062cf6125.jpg\" alt=\"413976B2-D408-419C-B76C-BE02BE007747.jpg\"></p>\n",
+				"content_text": "On last saturday I volunteered at the local foodbank, [again](https://zeitschlag.blog/2020/06/07/a-few-months.html). And I got a little tart as dessert. It was so good 🤤🤤🤤\n\nGuess who's on the way to a coffeeshop around the corner to grab a New York Style Cheese Cake.\n\n![413976B2-D408-419C-B76C-BE02BE007747.jpg](https://zeitschlag.micro.blog/uploads/2020/1062cf6125.jpg)\n",
+				"date_published": "2020-07-07T13:49:41+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/07/07/on-last-saturday.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/07/05/i-built-some.html",
+				
+				"content_html": "<p>I built some custom animations for iOS-apps using UIKit and it was pretty hard. Currently I&rsquo;m learning about SwiftUI with Paul Hudson’s <a href=\"https://www.hackingwithswift.com/100/swiftui\">100 Days of SwiftUI</a> and today is about custom <a href=\"https://www.hackingwithswift.com/100/swiftui/34\">animations in SwiftUI</a>. And to me it feels that they&rsquo;re even harder in SwiftUI than in UIKit.</p>\n",
+				"content_text": "I built some custom animations for iOS-apps using UIKit and it was pretty hard. Currently I'm learning about SwiftUI with Paul Hudson’s [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) and today is about custom [animations in SwiftUI](https://www.hackingwithswift.com/100/swiftui/34). And to me it feels that they're even harder in SwiftUI than in UIKit.\n",
+				"date_published": "2020-07-05T22:04:07+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/07/05/i-built-some.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/07/01/its-coffee-oclock.html",
+				
+				"content_html": "<p>It‘s <a href=\"https://www.fritz-kola.de/en/vielfalt/fritz-kola/fritz-kola-sugarfree/\">coffee</a> o’clock ☕️ 🧭</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It‘s [coffee](https://www.fritz-kola.de/en/vielfalt/fritz-kola/fritz-kola-sugarfree/) o’clock ☕️ 🧭\n\n<img src=\"uploads/2020/bd96eedae7.jpg\" alt=\"\" />\n",
+				"date_published": "2020-07-01T14:26:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/07/01/its-coffee-oclock.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/06/28/i-spent-the.html",
+				
+				"content_html": "<p>I spent the last couple of days of my vacation visiting a very good friend of mine in Switzerland. Yesterday, we sat in the car and drove into the Alps. It‘s just an breathtaking scenery up there! 🏔🗺</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I spent the last couple of days of my vacation visiting a very good friend of mine in Switzerland. Yesterday, we sat in the car and drove into the Alps. It‘s just an breathtaking scenery up there! 🏔🗺\n\n<img src=\"uploads/2020/a34a68acb9.jpg\" alt=\"\" /><img src=\"uploads/2020/b787502f64.jpg\" alt=\"\" /><img src=\"uploads/2020/b60d57f716.jpg\" alt=\"\" />\n",
+				"date_published": "2020-06-28T12:33:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/06/28/i-spent-the.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/06/23/today-i-went.html",
+				
+				"content_html": "<p>Today, I went to a local thrift shop and treated myself with <a href=\"https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild\">The Legend of Zelda: Breath of the Wild</a> for Nintendo Switch. I consider this part of my vacation which is taking place right now. This is my first game ever from the Zelda-franchise and so far it‘s been great. I still suck when it comes to beating the shit out of monsters, but it‘s fun, even if I die literally all the time. And I can prepare food!</p>\n",
+				"content_text": "Today, I went to a local thrift shop and treated myself with [The Legend of Zelda: Breath of the Wild](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild) for Nintendo Switch. I consider this part of my vacation which is taking place right now. This is my first game ever from the Zelda-franchise and so far it‘s been great. I still suck when it comes to beating the shit out of monsters, but it‘s fun, even if I die literally all the time. And I can prepare food!\n",
+				"date_published": "2020-06-23T22:02:01+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/06/23/today-i-went.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/06/17/in-the-last.html",
+				
+				"content_html": "<p>In the last couple of days, I‘ve thought a lot about a former girlfriend of mine. I have no idea, where those thoughts have come from, but it has really hurt as I still miss her, even after a few years. I‘m deeply sorry for what I did back then, for how it all ended, but I can‘t change it.</p>\n<p>To somehow deal with my regrets and feelings, I finally started to write a letter, which I’ll never send to her. Writing down my thoughts and feelings regarding her has been a brilliant idea, I should‘ve done this earlier.</p>\n",
+				"content_text": "In the last couple of days, I‘ve thought a lot about a former girlfriend of mine. I have no idea, where those thoughts have come from, but it has really hurt as I still miss her, even after a few years. I‘m deeply sorry for what I did back then, for how it all ended, but I can‘t change it.\n\nTo somehow deal with my regrets and feelings, I finally started to write a letter, which I’ll never send to her. Writing down my thoughts and feelings regarding her has been a brilliant idea, I should‘ve done this earlier.\n",
+				"date_published": "2020-06-17T22:26:07+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/06/17/in-the-last.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/06/16/going-for-a.html",
+				"title": "Going for a walk",
+				"content_html": "<p>Since more than 180 days in a row, I‘ve done 10.000 steps daily.</p>\n<p>I use <a href=\"https://pedometer.app\">Pedometer++ by _davidsmith</a> to count them and this 180 days streak is now pretty important to me, I don‘t want to break it. What I really like about this app is that it allows occasional cheating days: After six days in a row, you‘re allowed to not have those 10.000 steps for one day without ruining your streak.</p>\n<p>Especially as I‘m working from home, this app has been even more important during <em>the</em> pandemic, as it makes me leave my flat at least once per day. Sometimes I still have to do some steps before going to bed, but this doesn‘t bother me at all. Doing so is easier than letting the streak break.</p>\n<p>Going outside for a walk or a run nearly always brightens my day. I guess, this has become some kind of a habbit now.</p>\n",
+				"content_text": "Since more than 180 days in a row, I‘ve done 10.000 steps daily.\n\nI use [Pedometer++ by _davidsmith](https://pedometer.app) to count them and this 180 days streak is now pretty important to me, I don‘t want to break it. What I really like about this app is that it allows occasional cheating days: After six days in a row, you‘re allowed to not have those 10.000 steps for one day without ruining your streak.\n\nEspecially as I‘m working from home, this app has been even more important during _the_ pandemic, as it makes me leave my flat at least once per day. Sometimes I still have to do some steps before going to bed, but this doesn‘t bother me at all. Doing so is easier than letting the streak break.\n\nGoing outside for a walk or a run nearly always brightens my day. I guess, this has become some kind of a habbit now.\n",
+				"date_published": "2020-06-16T19:08:44+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/06/16/going-for-a.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/06/15/stressful-vacation.html",
+				"title": "Stressful vacation",
+				"content_html": "<p>I didn&rsquo;t work for four days in a row, as I only work four days a week and then I took one day off. This could have been som kind of short vacation, but I don&rsquo;t feel relaxed at all, although I did some things I usually enjoy.</p>\n<p>On friday, I cycled 40km to a nearby town call Potsdam, it&rsquo;s the capital of the state of Brandenburg, that surrounds Berlin, the capital of Germany itself. I recorded and produced an episode of a podcast, <a href=\"http://www.zeitschlag.blog/2020/06/11/yesterday-i-asked.html\">I bought and read a book</a> and yesterday, I attended a rally, but what really bugs me is, that I didn&rsquo;t have an idea in advance, how I&rsquo;d like to have spent these days. I didn&rsquo;t have a plan and so the last couple of days were actually pretty stressful to me. Due to the COVID—19 pandemic, time flies and this weekend just popped up out of nowhere.</p>\n<p>Next week, I&rsquo;ll have to take an entire week of vacation and I&rsquo;m already thinking about what to do. I&rsquo;d like to have a plan, at least.</p>\n",
+				"content_text": "I didn't work for four days in a row, as I only work four days a week and then I took one day off. This could have been som kind of short vacation, but I don't feel relaxed at all, although I did some things I usually enjoy.\n\nOn friday, I cycled 40km to a nearby town call Potsdam, it's the capital of the state of Brandenburg, that surrounds Berlin, the capital of Germany itself. I recorded and produced an episode of a podcast, [I bought and read a book](http://www.zeitschlag.blog/2020/06/11/yesterday-i-asked.html) and yesterday, I attended a rally, but what really bugs me is, that I didn't have an idea in advance, how I'd like to have spent these days. I didn't have a plan and so the last couple of days were actually pretty stressful to me. Due to the COVID—19 pandemic, time flies and this weekend just popped up out of nowhere.\n\nNext week, I'll have to take an entire week of vacation and I'm already thinking about what to do. I'd like to have a plan, at least.\n",
+				"date_published": "2020-06-15T08:07:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/06/15/stressful-vacation.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/06/13/i-just-finished.html",
+				"title": "On \"My Sister, the Serial Killer\" by Oyinkan Braithwaite",
+				"content_html": "<p>I just finished reading &ldquo;My Sister, the Serial Killer&rdquo;, the book by <a href=\"https://oyinkanbraithwaite.com\">Oyinkan Braithwaite</a> which I bought <a href=\"https://zeitschlag.micro.blog/2020/06/11/yesterday-i-asked.html\">two days ago</a> — and I enjoyed it. Lots of dark humor, not a lot of hope, some dead people, some unexpected turnarounds. Thanks a lot for the recommendation, it&rsquo;s a great book, I would buy — and read, obviously — again.</p>\n<p>Reading it in English went far better than I expected.</p>\n",
+				"content_text": "I just finished reading \"My Sister, the Serial Killer\", the book by [Oyinkan Braithwaite](https://oyinkanbraithwaite.com) which I bought [two days ago](https://zeitschlag.micro.blog/2020/06/11/yesterday-i-asked.html) — and I enjoyed it. Lots of dark humor, not a lot of hope, some dead people, some unexpected turnarounds. Thanks a lot for the recommendation, it's a great book, I would buy — and read, obviously — again.\n\nReading it in English went far better than I expected.\n\n",
+				"date_published": "2020-06-13T13:47:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/06/13/i-just-finished.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/06/11/yesterday-i-asked.html",
+				
+				"content_html": "<p>Yesterday, I asked for recommendations of good book, a thriller, something like that. Today I went to a local bookstore and bought ”My Sister, the Serial Killer“ by Oyinkan Braithwaite.</p>\n<p>It‘s been my first English novel for quite some time.</p>\n<p><img src=\"https://zeitschlag.micro.blog/uploads/2020/db150ac7e2.jpg\" alt=\"Cover of the book\"></p>\n",
+				"content_text": "Yesterday, I asked for recommendations of good book, a thriller, something like that. Today I went to a local bookstore and bought ”My Sister, the Serial Killer“ by Oyinkan Braithwaite.\n\nIt‘s been my first English novel for quite some time.\n\n![Cover of the book](https://zeitschlag.micro.blog/uploads/2020/db150ac7e2.jpg)\n",
+				"date_published": "2020-06-11T14:44:41+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/06/11/yesterday-i-asked.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/06/09/more-or-less.html",
+				"title": "More or less unit tests",
+				"content_html": "<p>Yesterday, I wrote some code, but I didn&rsquo;t write any unit tests, like most of the time. I know, that this is a bad habbit and I want to get rid of it. So, first thing this morning: Writing some tests. What helped me was <a href=\"https://leanpub.com/tdd_ios_gimme_the_code\">this book</a></p>\n<p>And while doing so, I fixed two bugs and afterwards, a colleague of mine requested some minor refactorings. Thankfully, now that there were tests, it was a joy to change the code and not break anything.</p>\n<p>The thing is: Whenever I write tests, I make some positive experiences from it pretty much right away. But when I write code the next time, I just don&rsquo;t write tests — again. I have no idea, why.</p>\n",
+				"content_text": "Yesterday, I wrote some code, but I didn't write any unit tests, like most of the time. I know, that this is a bad habbit and I want to get rid of it. So, first thing this morning: Writing some tests. What helped me was [this book](https://leanpub.com/tdd_ios_gimme_the_code)\n\nAnd while doing so, I fixed two bugs and afterwards, a colleague of mine requested some minor refactorings. Thankfully, now that there were tests, it was a joy to change the code and not break anything.\n\nThe thing is: Whenever I write tests, I make some positive experiences from it pretty much right away. But when I write code the next time, I just don't write tests — again. I have no idea, why.\n",
+				"date_published": "2020-06-09T15:35:46+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/06/09/more-or-less.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/06/07/a-few-months.html",
+				
+				"content_html": "<p>A few months ago I heard in the news, that the <a href=\"https://www.berliner-tafel.de/berliner-tafel/\">local food bank</a> needed volunteers due to the COVID—19-pandemic. Elder people do most of the work there, and as they&rsquo;re prone to severly suffer from COVID—19, they had to pause their engagement. So I sent them an email and have helped them since then. Volunteering there has become a routine part of my weekend and I totally don&rsquo;t want to miss it. I&rsquo;ve meet some very friendly people there, you get some freshly cooked lunch and after a whole week of programming, it somehow feels like doing purposeful work: I&rsquo;m making myself useful. Oh, and every time you help there, you get sweets.</p>\n<p>It&rsquo;s shameful, that those instutions have to exist, but that&rsquo;s not the point here.</p>\n",
+				"content_text": "A few months ago I heard in the news, that the [local food bank](https://www.berliner-tafel.de/berliner-tafel/) needed volunteers due to the COVID—19-pandemic. Elder people do most of the work there, and as they're prone to severly suffer from COVID—19, they had to pause their engagement. So I sent them an email and have helped them since then. Volunteering there has become a routine part of my weekend and I totally don't want to miss it. I've meet some very friendly people there, you get some freshly cooked lunch and after a whole week of programming, it somehow feels like doing purposeful work: I'm making myself useful. Oh, and every time you help there, you get sweets.\r\n\r\nIt's shameful, that those instutions have to exist, but that's not the point here.\n",
+				"date_published": "2020-06-07T16:55:35+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/06/07/a-few-months.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/06/05/i-suck-at.html",
+				
+				"content_html": "<p>I suck at playing video games, I&rsquo;m like <em>really</em> bad. But some of them are just great, <a href=\"https://goose.game\">The Untitled Goose Game</a>, for example. I bought it for the Nintendo Switch a few months ago and every once in a while I spent half an hour trying to solve some puzzles. Sometimes, I&rsquo;m successful, sometimes I&rsquo;m not, but I&rsquo;m still having a good time even when failing.</p>\n<p>Nevertheless, console games are so freacking expensive. <a href=\"https://apps.apple.com/en/app/stardew-valley/id1406710800\">Stardew Valley for iOS</a> is five-ish bucks, while you have to pay three times the price for <a href=\"https://www.nintendo.com/games/detail/stardew-valley-switch/\">Stardew Valley for Nintendo Switch</a>. But maybe prices for iOS apps are just broken?</p>\n<p>On the other hand, the <a href=\"https://www.nintendo.com/games/detail/mario-kart-8-deluxe-switch/\">most recent version of Mario Kart</a> is sold for 60 bucks — for one game! Who can afford that?</p>\n",
+				"content_text": "I suck at playing video games, I'm like _really_ bad. But some of them are just great, [The Untitled Goose Game](https://goose.game), for example. I bought it for the Nintendo Switch a few months ago and every once in a while I spent half an hour trying to solve some puzzles. Sometimes, I'm successful, sometimes I'm not, but I'm still having a good time even when failing.\n\nNevertheless, console games are so freacking expensive. [Stardew Valley for iOS](https://apps.apple.com/en/app/stardew-valley/id1406710800) is five-ish bucks, while you have to pay three times the price for [Stardew Valley for Nintendo Switch](https://www.nintendo.com/games/detail/stardew-valley-switch/). But maybe prices for iOS apps are just broken?\n\nOn the other hand, the [most recent version of Mario Kart](https://www.nintendo.com/games/detail/mario-kart-8-deluxe-switch/) is sold for 60 bucks — for one game! Who can afford that?\n",
+				"date_published": "2020-06-05T17:30:57+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/06/05/i-suck-at.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/05/02/i-just-played.html",
+				
+				"content_html": "<p>I just played some <a href=\"https://play0ad.com\">0 A.D.</a> on my 2018 Macbook Pro 13 and I‘m a bit disappointed: The framerate was pretty low, it dropped to less than 8 fps from time to time and this wasn‘t fun at all. The next time I will run it on the Windows low budget gaming computer again. With 60 fps.</p>\n",
+				"content_text": "I just played some [0 A.D.](https://play0ad.com) on my 2018 Macbook Pro 13 and I‘m a bit disappointed: The framerate was pretty low, it dropped to less than 8 fps from time to time and this wasn‘t fun at all. The next time I will run it on the Windows low budget gaming computer again. With 60 fps.\n",
+				"date_published": "2020-05-02T23:50:10+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/05/02/i-just-played.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2020/04/04/in-berlin-the.html",
+				
+				"content_html": "<p>In Berlin, the town I live in, there&rsquo;re pretty strict lockdown-ish rules due to the pandemic.  I haven&rsquo;t physically met with neither my partners nor close friends for a few weeks now and to be honest: Next to going to the gym, this isolation is the most stressful part to me.</p>\n<p>Nevertheless I&rsquo;m sitting in a park right now, enjoying the sun, physical-distancing myself from everyone else. The next people are several meters away, everyone is calm, but you can feel, that something is different. Something&rsquo;s in the air.</p>\n<p>Spring and summer are the most amazing seasons in Berlin. Everyone is going out again, nature&rsquo;s turning green again, the weather&rsquo;s great most of the time, but you can feel, that this year, something will be different.</p>\n",
+				"content_text": "In Berlin, the town I live in, there're pretty strict lockdown-ish rules due to the pandemic.  I haven't physically met with neither my partners nor close friends for a few weeks now and to be honest: Next to going to the gym, this isolation is the most stressful part to me.\n\nNevertheless I'm sitting in a park right now, enjoying the sun, physical-distancing myself from everyone else. The next people are several meters away, everyone is calm, but you can feel, that something is different. Something's in the air.\n\nSpring and summer are the most amazing seasons in Berlin. Everyone is going out again, nature's turning green again, the weather's great most of the time, but you can feel, that this year, something will be different.\n",
+				"date_published": "2020-04-04T15:51:27+02:00",
+				"url": "https://zeitschlag.micro.blog/2020/04/04/in-berlin-the.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/11/20/092428.html",
+				
+				"content_html": "<p>🌃</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🌃\n\n<img src=\"uploads/2019/f9417c36ce.jpg\" alt=\"\" />\n",
+				"date_published": "2019-11-20T10:24:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/11/20/092428.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/11/19/185034.html",
+				
+				"content_html": "<p>🌃</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🌃\n\n<img src=\"uploads/2019/e24472a880.jpg\" alt=\"\" />\n",
+				"date_published": "2019-11-19T19:50:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/11/19/185034.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/11/17/its-somehow-meditating.html",
+				
+				"content_html": "<p>It&rsquo;s somehow meditating to watch this: <a href=\"https://www.youtube.com/watch?v=eZe4Q_58UTU\">Walking in the Rain in Manhattan, NYC</a></p>\n",
+				"content_text": "It's somehow meditating to watch this: [Walking in the Rain in Manhattan, NYC](https://www.youtube.com/watch?v=eZe4Q_58UTU)\n",
+				"date_published": "2019-11-17T12:29:59+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/11/17/its-somehow-meditating.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/11/04/diary-and-meditating.html",
+				"title": "Diary and Meditating",
+				"content_html": "<p>A few weeks ago, I startet to write an offline micro-blog. Some may call it a diary. You know, old-fashioned, unencrypted and handwritten. I bought a small, red notebook and started to write.</p>\n<p>Around the same time I started meditating again. Two minutes a day, most days in the evening. And I found out, that medidating clears my mind: Whenever I meditate before writing a diary entry, it feels better and more structured than without meditating. It feels like self-care.</p>\n",
+				"content_text": "A few weeks ago, I startet to write an offline micro-blog. Some may call it a diary. You know, old-fashioned, unencrypted and handwritten. I bought a small, red notebook and started to write.\n\nAround the same time I started meditating again. Two minutes a day, most days in the evening. And I found out, that medidating clears my mind: Whenever I meditate before writing a diary entry, it feels better and more structured than without meditating. It feels like self-care.\n",
+				"date_published": "2019-11-04T23:52:43+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/11/04/diary-and-meditating.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/11/01/a-few-weeks.html",
+				
+				"content_html": "<p>A few weeks ago, I started this thing with lots of enthusiasm. And now I have nothing to say at the moment at all 🙃</p>\n",
+				"content_text": "A few weeks ago, I started this thing with lots of enthusiasm. And now I have nothing to say at the moment at all 🙃\n",
+				"date_published": "2019-11-01T21:47:09+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/11/01/a-few-weeks.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/10/08/i-attended-the.html",
+				
+				"content_html": "<p>I attended the local chapter of Cocoaheads in Frankfurt yesterday, although I&rsquo;ve worked here for more than one year. Before I attended the Berlin Cocoheads meetup and I really missed it.</p>\n<p>It was a very nice meetup and I&rsquo;m really looking forward to the next one.</p>\n",
+				"content_text": "I attended the local chapter of Cocoaheads in Frankfurt yesterday, although I've worked here for more than one year. Before I attended the Berlin Cocoheads meetup and I really missed it.\n\nIt was a very nice meetup and I'm really looking forward to the next one.\n",
+				"date_published": "2019-10-08T10:49:35+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/10/08/i-attended-the.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/10/06/i-had-to.html",
+				
+				"content_html": "<p>I had to leave the house and decided to travel to Cologne for basically a ride on my bike and a piece of cake.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I had to leave the house and decided to travel to Cologne for basically a ride on my bike and a piece of cake.\n\n<img src=\"uploads/2019/0ea9868c0b.jpg\" alt=\"\" />\n",
+				"date_published": "2019-10-06T19:33:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/10/06/i-had-to.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/09/27/critical-mass-in.html",
+				"title": "Critical Mass in Berlin",
+				"content_html": "<p>On last saturday, I attended my first <a href=\"https://en.wikipedia.org/wiki/Critical_Mass_(cycling)\">Critical Mass</a>. That‘s basically some people riding their bikes through the city. 2000 people joined in Berlin last weekend. I realized (again), how much public space cars need — and get. It‘s time to build some proper bicycle infrastructure in Germany.</p>\n<p>Tonight‘s the next Critical Mass and I‘m really looking forward to it!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "On last saturday, I attended my first [Critical Mass](https://en.wikipedia.org/wiki/Critical_Mass_(cycling)). That‘s basically some people riding their bikes through the city. 2000 people joined in Berlin last weekend. I realized (again), how much public space cars need — and get. It‘s time to build some proper bicycle infrastructure in Germany.\n\nTonight‘s the next Critical Mass and I‘m really looking forward to it!\n\n<img src=\"uploads/2019/7cc9697252.jpg\" alt=\"\" />\n",
+				"date_published": "2019-09-27T14:08:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/09/27/critical-mass-in.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/09/24/this-morning-i.html",
+				
+				"content_html": "<p>This morning I read about the <a href=\"https://www.upandgo.coop\">Up&amp;Go cleaners cooperative</a> in the <a href=\"https://www.zeit.de/die-antwort/2019-09/putzhilfe-helpling-gig-economy-reinigungskraefte/komplettansicht\">German ZEIT newspaper</a>. I really like the idea.</p>\n",
+				"content_text": "This morning I read about the [Up&Go cleaners cooperative](https://www.upandgo.coop) in the [German ZEIT newspaper](https://www.zeit.de/die-antwort/2019-09/putzhilfe-helpling-gig-economy-reinigungskraefte/komplettansicht). I really like the idea.\n",
+				"date_published": "2019-09-24T08:16:28+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/09/24/this-morning-i.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/09/21/yesterday-i-attended.html",
+				
+				"content_html": "<p>Yesterday I attended the Global Climate Strike in Berlin together with 270 000 other people. Throughout Germany, 1.4 million people attended that strike. But that exact same morning, the German government decided to do nothing against global warming again, but making life easier for rich people. They sell this &ldquo;do nothing&rdquo; decision as kind of &ldquo;breakthrough&rdquo;.</p>\n<p>Dear politicians, I&rsquo;m angry. I don&rsquo;t want you to lower taxes. I want you to fucking fight global warning. What can I buy for all the money in the world, when there&rsquo;s no world?</p>\n",
+				"content_text": "Yesterday I attended the Global Climate Strike in Berlin together with 270 000 other people. Throughout Germany, 1.4 million people attended that strike. But that exact same morning, the German government decided to do nothing against global warming again, but making life easier for rich people. They sell this \"do nothing\" decision as kind of \"breakthrough\".\n\nDear politicians, I'm angry. I don't want you to lower taxes. I want you to fucking fight global warning. What can I buy for all the money in the world, when there's no world?\n",
+				"date_published": "2019-09-21T12:42:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/09/21/yesterday-i-attended.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/09/19/here-are-some.html",
+				"title": "Some random thoughts about what I like about µ.blog",
+				"content_html": "<p>Here are some things I really like about micro.blog:</p>\n<ul>\n<li>I can write in Markdown.</li>\n<li>There is a very low barrier to me: I can simply write down a thought or post an image. All I have to do is to start typing. I don&rsquo;t even have to enter a title.</li>\n<li>I don&rsquo;t feel any pressure to perfect things. This is kind of new to me, although I&rsquo;ve written blogposts for ~13 years or so.</li>\n</ul>\n<p>To sum up: It feels like micro.blog has made me think about, what blogging is for me.</p>\n",
+				"content_text": "Here are some things I really like about micro.blog:\n\n- I can write in Markdown.\n- There is a very low barrier to me: I can simply write down a thought or post an image. All I have to do is to start typing. I don't even have to enter a title.\n- I don't feel any pressure to perfect things. This is kind of new to me, although I've written blogposts for ~13 years or so.\n\nTo sum up: It feels like micro.blog has made me think about, what blogging is for me.\n",
+				"date_published": "2019-09-19T22:23:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/09/19/here-are-some.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/09/19/since-ive-owned.html",
+				"title": "On folding bikes and global climate strikes",
+				"content_html": "<p>Since I&rsquo;ve owned a <a href=\"https://www.brompton.com\">proper folding bike 🚲</a>, commuting and traveling is so much more fun. I have the bike with me all the time and ride as often as possible and whenever I have to get to a place I can&rsquo;t reach with public transport.</p>\n<p>I just decided to leave the train one station earlier, so that I can cycle home. Oh, and of course I will attend the <a href=\"https://globalclimatestrike.net\">global climate strike</a> in Berlin tomorrow. 🌍</p>\n<p>Do you plan to attend the global climate strike?</p>\n",
+				"content_text": "Since I've owned a [proper folding bike 🚲](https://www.brompton.com), commuting and traveling is so much more fun. I have the bike with me all the time and ride as often as possible and whenever I have to get to a place I can't reach with public transport. \n\nI just decided to leave the train one station earlier, so that I can cycle home. Oh, and of course I will attend the [global climate strike](https://globalclimatestrike.net) in Berlin tomorrow. 🌍\n\nDo you plan to attend the global climate strike?\n",
+				"date_published": "2019-09-19T21:51:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/09/19/since-ive-owned.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/09/18/zeitschlagi-tweet-in.html",
+				
+				"content_html": "<p>I tweet in German, usually. On my <a href=\"https://zeitschlag.net\">tech blog</a>, I write in English, but on my <a href=\"https://bullenscheisse.de\">personal blog</a>, it‘s German again. And what about this one? I don‘t know, I haven‘t decided yet. Maybe both? Maybe just English, as it feels strangely somehow pretty natural?</p>\n",
+				"content_text": "I tweet in German, usually. On my [tech blog](https://zeitschlag.net), I write in English, but on my [personal blog](https://bullenscheisse.de), it‘s German again. And what about this one? I don‘t know, I haven‘t decided yet. Maybe both? Maybe just English, as it feels strangely somehow pretty natural?\n",
+				"date_published": "2019-09-18T22:51:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/09/18/zeitschlagi-tweet-in.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/09/17/the-sky-was.html",
+				
+				"content_html": "<p>The sky was much more beautiful in reality. Greeting from the lovely town of Basel 🇨🇭🗺</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The sky was much more beautiful in reality. Greeting from the lovely town of Basel 🇨🇭🗺\n\n<img src=\"uploads/2019/6ed5c06bff.jpg\" alt=\"\" />\n",
+				"date_published": "2019-09-17T21:37:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/09/17/the-sky-was.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/09/17/perks-of-working.html",
+				
+				"content_html": "<p>Perks of working in Frankfurt: I can hop on a train to Basel after work.</p>\n",
+				"content_text": "Perks of working in Frankfurt: I can hop on a train to Basel after work.\n",
+				"date_published": "2019-09-17T19:04:07+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/09/17/perks-of-working.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/09/17/heres-another-one.html",
+				
+				"content_html": "<p>Here‘s another one I took in Frankfurt last week. This time it‘s without a filter.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Here‘s another one I took in Frankfurt last week. This time it‘s without a filter.\n\n<img src=\"uploads/2019/896ec81425.jpg\" alt=\"\" />\n",
+				"date_published": "2019-09-17T10:53:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/09/17/heres-another-one.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/09/17/lets-see-how.html",
+				
+				"content_html": "<p>Let‘s see, how micro.blog handles images. I took this picture in Berlin and applied the &ldquo;Pacific&rdquo;-filter to it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Let‘s see, how micro.blog handles images. I took this picture in Berlin and applied the \"Pacific\"-filter to it.\n\n<img src=\"uploads/2019/8717266428.jpg\" alt=\"\" />\n",
+				"date_published": "2019-09-17T10:36:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/09/17/lets-see-how.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/09/17/a-few-days.html",
+				
+				"content_html": "<p>A few days ago I decided to give <a href=\"https://www.jetbrains.com/objc/\">AppCode</a> a try. As it&rsquo;s designed to be used with keyboard shortcuts, I switched from a German to a US keyboard layout. It&rsquo;s much more convenient, not only for programming, but for writing Markdown, too.</p>\n",
+				"content_text": "A few days ago I decided to give [AppCode](https://www.jetbrains.com/objc/) a try. As it's designed to be used with keyboard shortcuts, I switched from a German to a US keyboard layout. It's much more convenient, not only for programming, but for writing Markdown, too.\n",
+				"date_published": "2019-09-17T09:05:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/09/17/a-few-days.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/09/17/hello-world.html",
+				
+				"content_html": "<p>Ach, ich fange jetzt einfach mal an. Manchmal ist anfangen wichtiger als es von Anfang an richtig zu machen. Und <a href=\"https://help.micro.blog/2018/setting-up-wordpress/\">umziehen kann</a> ich immer noch, das mache ich dann halt später.</p>\n",
+				"content_text": "Ach, ich fange jetzt einfach mal an. Manchmal ist anfangen wichtiger als es von Anfang an richtig zu machen. Und [umziehen kann](https://help.micro.blog/2018/setting-up-wordpress/) ich immer noch, das mache ich dann halt später.\n",
+				"date_published": "2019-09-17T07:35:00+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/09/17/hello-world.html"
+			},
+			{
+				"id": "http://zeitschlag.micro.blog/2019/09/17/ich-bin-noch.html",
+				
+				"content_html": "<p>Ich bin noch nicht so ganz überzeugt, ob ich nicht doch einfach ein Wordpress aufsetzen soll. Zum einen, weil ich es kann. Zum anderen, weil ich den Gedanken der Unabhängigkeit mag: Wenn es mir irgendwo nicht mehr gefällt, kann ich einfach weiterziehen.</p>\n<p>Vielleicht löse ich dieses Problem aber auch einfach mit $5 pro Monat.</p>\n",
+				"content_text": "Ich bin noch nicht so ganz überzeugt, ob ich nicht doch einfach ein Wordpress aufsetzen soll. Zum einen, weil ich es kann. Zum anderen, weil ich den Gedanken der Unabhängigkeit mag: Wenn es mir irgendwo nicht mehr gefällt, kann ich einfach weiterziehen.\n\nVielleicht löse ich dieses Problem aber auch einfach mit $5 pro Monat.\n",
+				"date_published": "2019-09-17T06:57:51+02:00",
+				"url": "https://zeitschlag.micro.blog/2019/09/17/ich-bin-noch.html"
+			}
+	]
+}
