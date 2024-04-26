@@ -50,7 +50,7 @@
 				"id": "http://zeitschlag.micro.blog/2022/07/28/i-went-on.html",
 				
 				"content_html": "<p>I went on a hike</p>\n<p><!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted --></p>\n",
-				"content_text": "I went on a hike\n\n<img src=\"uploads/2022/3a1cd437d6.jpg\" alt=\"\" width=\"900\" height=\"1200\" /> <img src=\"uploads/2022/5ad4a94eea.jpg\" alt=\"\" width=\"900\" height=\"1200\" /> <img src=\"uploads/2022/0b1312341e.jpg\" alt=\"\" width=\"1200\" height=\"900\" />\n",
+				"content_text": "I went on a hike\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2022/3a1cd437d6.jpg\" alt=\"\" width=\"900\" height=\"1200\" /> <img src=\"https://zeitschlag.micro.blog/uploads/2022/5ad4a94eea.jpg\" alt=\"\" width=\"900\" height=\"1200\" /> <img src=\"https://zeitschlag.micro.blog/uploads/2022/0b1312341e.jpg\" alt=\"\" width=\"1200\" height=\"900\" />\n",
 				"date_published": "2022-07-28T07:51:57+02:00",
 				"url": "https://zeitschlag.micro.blog/2022/07/28/i-went-on.html"
 			},
@@ -58,7 +58,7 @@
 				"id": "http://zeitschlag.micro.blog/2022/07/03/100112.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2022/7007d99a2d.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/88c2946ced.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2022/7007d99a2d.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://zeitschlag.micro.blog/uploads/2022/88c2946ced.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-03T10:01:12+02:00",
 				"url": "https://zeitschlag.micro.blog/2022/07/03/100112.html"
 			},
@@ -66,7 +66,7 @@
 				"id": "http://zeitschlag.micro.blog/2022/06/19/224208.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/fd65c7c6da.jpg\" />\n",
+				"content_text": "<img src=\"https://zeitschlag.micro.blog/uploads/2022/fd65c7c6da.jpg\" />\n",
 				"date_published": "2022-06-19T22:42:08+02:00",
 				"url": "https://zeitschlag.micro.blog/2022/06/19/224208.html"
 			},
@@ -98,7 +98,7 @@
 				"id": "http://zeitschlag.micro.blog/2021/06/27/for-the-first.html",
 				
 				"content_html": "<p>For the first time in ages I went to a concert yesterday. It was outdoors, of course. There were <a href=\"https://www.digitalinberlin.de/kiezsalon-gardens-of-the-world-2021/\">four great musicians</a> performing in the “Gardens of the World”-park in Berlin, one of them being <a href=\"http://aliciaedelweiss.com/\">Alicia Edelweiss</a> whose album I bought <a href=\"https://zeitschlag.blog/2020/10/27/155553.html\">more than one year ago</a>. Since then I spent countless hours listening to the music while wandering through the city.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "For the first time in ages I went to a concert yesterday. It was outdoors, of course. There were [four great musicians](https://www.digitalinberlin.de/kiezsalon-gardens-of-the-world-2021/) performing in the “Gardens of the World”-park in Berlin, one of them being [Alicia Edelweiss](http://aliciaedelweiss.com/) whose album I bought [more than one year ago](https://zeitschlag.blog/2020/10/27/155553.html). Since then I spent countless hours listening to the music while wandering through the city.\n\n<img src=\"uploads/2021/fd7f40d2df.jpg\" alt=\"\" />\n",
+				"content_text": "For the first time in ages I went to a concert yesterday. It was outdoors, of course. There were [four great musicians](https://www.digitalinberlin.de/kiezsalon-gardens-of-the-world-2021/) performing in the “Gardens of the World”-park in Berlin, one of them being [Alicia Edelweiss](http://aliciaedelweiss.com/) whose album I bought [more than one year ago](https://zeitschlag.blog/2020/10/27/155553.html). Since then I spent countless hours listening to the music while wandering through the city.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2021/fd7f40d2df.jpg\" alt=\"\" />\n",
 				"date_published": "2021-06-27T10:49:18+02:00",
 				"url": "https://zeitschlag.micro.blog/2021/06/27/for-the-first.html"
 			},
@@ -106,7 +106,7 @@
 				"id": "http://zeitschlag.micro.blog/2021/05/24/i-had-take.html",
 				
 				"content_html": "<p>I had to take two weeks off and as there’s still a pandemic going on, I’ve stayed in Berlin. Today the weather was great and I rode my bike for 75-ish kilometers — that’s probably at least a 100 miles or so, I guess.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I had to take two weeks off and as there’s still a pandemic going on, I’ve stayed in Berlin. Today the weather was great and I rode my bike for 75-ish kilometers — that’s probably at least a 100 miles or so, I guess.\n\n<img src=\"uploads/2021/07044ecbb5.jpg\" />\n",
+				"content_text": "I had to take two weeks off and as there’s still a pandemic going on, I’ve stayed in Berlin. Today the weather was great and I rode my bike for 75-ish kilometers — that’s probably at least a 100 miles or so, I guess.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2021/07044ecbb5.jpg\" />\n",
 				"date_published": "2021-05-24T22:34:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2021/05/24/i-had-take.html"
 			},
@@ -122,7 +122,7 @@
 				"id": "http://zeitschlag.micro.blog/2021/05/12/203119.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2021/4742d58c1a.jpg\" alt=\"Blurry picture of a bridge over a river in new york.\" />\n",
+				"content_text": "<img src=\"https://zeitschlag.micro.blog/uploads/2021/4742d58c1a.jpg\" alt=\"Blurry picture of a bridge over a river in new york.\" />\n",
 				"date_published": "2021-05-12T20:31:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2021/05/12/203119.html"
 			},
@@ -130,7 +130,7 @@
 				"id": "http://zeitschlag.micro.blog/2021/05/02/more-than-one.html",
 				
 				"content_html": "<p>More than one year ago I visited a very dear friend in Switzerland. We drove into the Alps and went for a little walk near the middle of nowhere. A few minutes ago I found some pictures from that short vacation.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "More than one year ago I visited a very dear friend in Switzerland. We drove into the Alps and went for a little walk near the middle of nowhere. A few minutes ago I found some pictures from that short vacation.\n\n<img src=\"uploads/2021/3ad2ba2fc1.jpg\"/>\n<img src=\"uploads/2021/9260ffac12.jpg\"/>\n",
+				"content_text": "More than one year ago I visited a very dear friend in Switzerland. We drove into the Alps and went for a little walk near the middle of nowhere. A few minutes ago I found some pictures from that short vacation.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2021/3ad2ba2fc1.jpg\"/>\n<img src=\"https://zeitschlag.micro.blog/uploads/2021/9260ffac12.jpg\"/>\n",
 				"date_published": "2021-05-02T13:50:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2021/05/02/more-than-one.html"
 			},
@@ -138,7 +138,7 @@
 				"id": "http://zeitschlag.micro.blog/2021/04/01/i-went-for.html",
 				
 				"content_html": "<p>I went for a walk this morning and saw this tree.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I went for a walk this morning and saw this tree.\n\n<img src=\"uploads/2021/41ce751ae2.jpg\" alt=\"\" />\n",
+				"content_text": "I went for a walk this morning and saw this tree.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2021/41ce751ae2.jpg\" alt=\"\" />\n",
 				"date_published": "2021-04-01T17:17:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2021/04/01/i-went-for.html"
 			},
@@ -146,7 +146,7 @@
 				"id": "http://zeitschlag.micro.blog/2021/02/08/a-very-dear.html",
 				
 				"content_html": "<p>A very dear friend of mine sent me a jar of homemade rocket pesto, together with a recipe how they like it, with roasted tomates and candied nuts. It was super delicious — I cooked — and ate! — it as dinner yesterday.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A very dear friend of mine sent me a jar of homemade rocket pesto, together with a recipe how they like it, with roasted tomates and candied nuts. It was super delicious — I cooked — and ate! — it as dinner yesterday.\n\n<img src=\"uploads/2021/fb01051459.jpg\"/>\n",
+				"content_text": "A very dear friend of mine sent me a jar of homemade rocket pesto, together with a recipe how they like it, with roasted tomates and candied nuts. It was super delicious — I cooked — and ate! — it as dinner yesterday.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2021/fb01051459.jpg\"/>\n",
 				"date_published": "2021-02-08T12:29:43+02:00",
 				"url": "https://zeitschlag.micro.blog/2021/02/08/a-very-dear.html"
 			},
@@ -154,7 +154,7 @@
 				"id": "http://zeitschlag.micro.blog/2021/01/02/in-i-visited.html",
 				
 				"content_html": "<p>In 2016 I visited the United States and I just found some pictures from Manhattan I took back then:</p>\n<!-- raw HTML omitted -->\n<p>I just feel like I want to share them and I&rsquo;m really looking forward to flying to the city again once the pandemic is over.</p>\n",
-				"content_text": "In 2016 I visited the United States and I just found some pictures from Manhattan I took back then:\n\n<img src=\"uploads/2021/786c860ccf.jpg\"  />\n<img src=\"uploads/2021/3e7c15b319.jpg\" />\n<img src=\"uploads/2021/610778781e.jpg\" />\n<img src=\"uploads/2021/34acb4b16a.jpg\" />\n<img src=\"uploads/2021/faacdf4e91.jpg\" />\n\nI just feel like I want to share them and I'm really looking forward to flying to the city again once the pandemic is over.\n",
+				"content_text": "In 2016 I visited the United States and I just found some pictures from Manhattan I took back then:\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2021/786c860ccf.jpg\"  />\n<img src=\"https://zeitschlag.micro.blog/uploads/2021/3e7c15b319.jpg\" />\n<img src=\"https://zeitschlag.micro.blog/uploads/2021/610778781e.jpg\" />\n<img src=\"https://zeitschlag.micro.blog/uploads/2021/34acb4b16a.jpg\" />\n<img src=\"https://zeitschlag.micro.blog/uploads/2021/faacdf4e91.jpg\" />\n\nI just feel like I want to share them and I'm really looking forward to flying to the city again once the pandemic is over.\n",
 				"date_published": "2021-01-02T23:03:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2021/01/02/in-i-visited.html"
 			},
@@ -162,7 +162,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/12/25/i-had-some.html",
 				
 				"content_html": "<p>I had some Kässpätzle yesterday. For the first time ever, I made one of my most favorite dishes completely on my own with nothing but flour, water, eggs, and some cheese. A ton of cheese, to be honest. Think of Kässpätzle as German Mac’n’Cheese with Swiss Cheese and special pasta.</p>\n<p>It was great.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I had some Kässpätzle yesterday. For the first time ever, I made one of my most favorite dishes completely on my own with nothing but flour, water, eggs, and some cheese. A ton of cheese, to be honest. Think of Kässpätzle as German Mac’n’Cheese with Swiss Cheese and special pasta. \n\nIt was great.\n\n<img src=\"uploads/2020/4150aa4597.jpg\" />\n",
+				"content_text": "I had some Kässpätzle yesterday. For the first time ever, I made one of my most favorite dishes completely on my own with nothing but flour, water, eggs, and some cheese. A ton of cheese, to be honest. Think of Kässpätzle as German Mac’n’Cheese with Swiss Cheese and special pasta. \n\nIt was great.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/4150aa4597.jpg\" />\n",
 				"date_published": "2020-12-25T16:18:45+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/12/25/i-had-some.html"
 			},
@@ -170,7 +170,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/11/14/sky-was-beautiful.html",
 				
 				"content_html": "<p>Sky was beautiful today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sky was beautiful today. \n\n<img src=\"uploads/2020/c89dc9b3d7.jpg\" />\n",
+				"content_text": "Sky was beautiful today. \n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/c89dc9b3d7.jpg\" />\n",
 				"date_published": "2020-11-14T23:00:23+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/11/14/sky-was-beautiful.html"
 			},
@@ -178,7 +178,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/11/08/i-made-some.html",
 				
 				"content_html": "<p>I made some vegan cookies today. They&rsquo;re basically peanut butter, chocolate, some flour and oat flakes.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I made some vegan cookies today. They're basically peanut butter, chocolate, some flour and oat flakes.\n\n<img src=\"uploads/2020/6ad8f43067.jpg\" />\n",
+				"content_text": "I made some vegan cookies today. They're basically peanut butter, chocolate, some flour and oat flakes.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/6ad8f43067.jpg\" />\n",
 				"date_published": "2020-11-08T01:19:56+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/11/08/i-made-some.html"
 			},
@@ -186,7 +186,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/10/27/155553.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2020/ac1e88e388.jpg\"/>\n",
+				"content_text": "<img src=\"https://zeitschlag.micro.blog/uploads/2020/ac1e88e388.jpg\"/>\n",
 				"date_published": "2020-10-27T15:55:53+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/10/27/155553.html"
 			},
@@ -194,7 +194,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/10/22/spotibye.html",
 				"title": "Spoti-bye",
 				"content_html": "<p>In 2006 I bought my first CD ever: <a href=\"https://en.wikipedia.org/wiki/Stadium_Arcadium\">Stadium Arcadium</a> by Red Hot Chili Peppers. A few years later, the Internet did its thing and I stopped paying for music for several years. Around 2012 or so I started using <a href=\"https://en.wikipedia.org/wiki/Spotify\">Spotify</a> and had it since then with some years of <a href=\"https://en.wikipedia.org/wiki/Apple_Music\">Apple Music</a> in between. Over all those years I discovered lots of great artists and listened to a huge number of songs, a lot of them are connected to people the once were or still are part of my life.</p>\n<p>Six months ago, I heard a song by Austrian musician <a href=\"http://aliciaedelweiss.com\">Alicia Edelweiss</a> and <a href=\"https://aliciaedelweiss.bandcamp.com\">bought the whole album</a> instantly. You have to support artists during the pandemic, I told myself.</p>\n<!-- raw HTML omitted -->\n<p>A few days ago I cancelled my Spotify-subscription. There are several reasons for this step:</p>\n<ul>\n<li>From what I&rsquo;ve heard, music streaming is a pretty bad deal for artists in general. You have to support artists, especially now. This might be more expensive, but I hope, that the music will be worth it, literally.</li>\n<li>It feels like that I&rsquo;ve listened to way too much music during the last years. Music became a background noise, I mostly listen to it during the day, during work. And while having access to music anytime is great, I somehow lost connection to the music itself, it&rsquo;s nothing special anymore. I want to know the music, value its details, enjoy it consciensly, dance to it, make it something special.</li>\n<li>I want to own my music. I want to have a CD I can share with friends, for example, even if I&rsquo;m broke.</li>\n</ul>\n<p>And now you have to excuse me. There&rsquo;s some music that needs my attention. Or is it me needing the music&rsquo;s attention? Does it matter?</p>\n",
-				"content_text": "In 2006 I bought my first CD ever: [Stadium Arcadium](https://en.wikipedia.org/wiki/Stadium_Arcadium) by Red Hot Chili Peppers. A few years later, the Internet did its thing and I stopped paying for music for several years. Around 2012 or so I started using [Spotify](https://en.wikipedia.org/wiki/Spotify) and had it since then with some years of [Apple Music](https://en.wikipedia.org/wiki/Apple_Music) in between. Over all those years I discovered lots of great artists and listened to a huge number of songs, a lot of them are connected to people the once were or still are part of my life.\n\nSix months ago, I heard a song by Austrian musician [Alicia Edelweiss](http://aliciaedelweiss.com) and [bought the whole album](https://aliciaedelweiss.bandcamp.com) instantly. You have to support artists during the pandemic, I told myself. \n\n<img src=\"uploads/2020/c397ac9298.jpg\"/>\n\nA few days ago I cancelled my Spotify-subscription. There are several reasons for this step:\n\n- From what I've heard, music streaming is a pretty bad deal for artists in general. You have to support artists, especially now. This might be more expensive, but I hope, that the music will be worth it, literally.\n- It feels like that I've listened to way too much music during the last years. Music became a background noise, I mostly listen to it during the day, during work. And while having access to music anytime is great, I somehow lost connection to the music itself, it's nothing special anymore. I want to know the music, value its details, enjoy it consciensly, dance to it, make it something special.\n- I want to own my music. I want to have a CD I can share with friends, for example, even if I'm broke.\n\nAnd now you have to excuse me. There's some music that needs my attention. Or is it me needing the music's attention? Does it matter?\n\n",
+				"content_text": "In 2006 I bought my first CD ever: [Stadium Arcadium](https://en.wikipedia.org/wiki/Stadium_Arcadium) by Red Hot Chili Peppers. A few years later, the Internet did its thing and I stopped paying for music for several years. Around 2012 or so I started using [Spotify](https://en.wikipedia.org/wiki/Spotify) and had it since then with some years of [Apple Music](https://en.wikipedia.org/wiki/Apple_Music) in between. Over all those years I discovered lots of great artists and listened to a huge number of songs, a lot of them are connected to people the once were or still are part of my life.\n\nSix months ago, I heard a song by Austrian musician [Alicia Edelweiss](http://aliciaedelweiss.com) and [bought the whole album](https://aliciaedelweiss.bandcamp.com) instantly. You have to support artists during the pandemic, I told myself. \n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/c397ac9298.jpg\"/>\n\nA few days ago I cancelled my Spotify-subscription. There are several reasons for this step:\n\n- From what I've heard, music streaming is a pretty bad deal for artists in general. You have to support artists, especially now. This might be more expensive, but I hope, that the music will be worth it, literally.\n- It feels like that I've listened to way too much music during the last years. Music became a background noise, I mostly listen to it during the day, during work. And while having access to music anytime is great, I somehow lost connection to the music itself, it's nothing special anymore. I want to know the music, value its details, enjoy it consciensly, dance to it, make it something special.\n- I want to own my music. I want to have a CD I can share with friends, for example, even if I'm broke.\n\nAnd now you have to excuse me. There's some music that needs my attention. Or is it me needing the music's attention? Does it matter?\n\n",
 				"date_published": "2020-10-22T23:33:39+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/10/22/spotibye.html"
 			},
@@ -210,7 +210,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/10/07/zotrine-is-a.html",
 				
 				"content_html": "<p><a href=\"https://kolle-mate.de/zotrine/\">zotrine</a> is a lemonade made by a collective in Dresden, Germany. They don’t put shit in there and so zotrine is one if my favorite drinks. Also they print stuff on the back of the sticker on the bottles. You can see them, when you drank like at least half the bottle. Today I found this important great little piece of art.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[zotrine](https://kolle-mate.de/zotrine/) is a lemonade made by a collective in Dresden, Germany. They don’t put shit in there and so zotrine is one if my favorite drinks. Also they print stuff on the back of the sticker on the bottles. You can see them, when you drank like at least half the bottle. Today I found this important great little piece of art.\n\n<img src=\"uploads/2020/a38538dc76.jpg\" />\n",
+				"content_text": "[zotrine](https://kolle-mate.de/zotrine/) is a lemonade made by a collective in Dresden, Germany. They don’t put shit in there and so zotrine is one if my favorite drinks. Also they print stuff on the back of the sticker on the bottles. You can see them, when you drank like at least half the bottle. Today I found this important great little piece of art.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/a38538dc76.jpg\" />\n",
 				"date_published": "2020-10-07T14:31:49+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/10/07/zotrine-is-a.html"
 			},
@@ -218,7 +218,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/10/06/okay-lets-face.html",
 				
 				"content_html": "<p>Okay, let’s face it: Neither am I good at drawing nor have I any idea what a <a href=\"https://en.wikipedia.org/wiki/Rodent\">rodent</a> looks like.</p>\n<p>But both didn’t stop me from drawing one for Inktober 🤓😅 I seriously doubt though that this friendly folk would even survive in the wild.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Okay, let’s face it: Neither am I good at drawing nor have I any idea what a [rodent](https://en.wikipedia.org/wiki/Rodent) looks like.\n\nBut both didn’t stop me from drawing one for Inktober 🤓😅 I seriously doubt though that this friendly folk would even survive in the wild.\n\n<img src=\"uploads/2020/7c097053a0.jpg\">\n",
+				"content_text": "Okay, let’s face it: Neither am I good at drawing nor have I any idea what a [rodent](https://en.wikipedia.org/wiki/Rodent) looks like.\n\nBut both didn’t stop me from drawing one for Inktober 🤓😅 I seriously doubt though that this friendly folk would even survive in the wild.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/7c097053a0.jpg\">\n",
 				"date_published": "2020-10-06T22:57:26+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/10/06/okay-lets-face.html"
 			},
@@ -226,7 +226,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/10/05/last-year-i.html",
 				
 				"content_html": "<p>Last year I went hiking in the <a href=\"https://en.wikipedia.org/wiki/Palatinate_Forest\">Palatinate Forest</a>. It was amazing!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Last year I went hiking in the [Palatinate Forest](https://en.wikipedia.org/wiki/Palatinate_Forest). It was amazing!\n\n<img src=\"uploads/2020/572626d837.jpg\"/>\n",
+				"content_text": "Last year I went hiking in the [Palatinate Forest](https://en.wikipedia.org/wiki/Palatinate_Forest). It was amazing!\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/572626d837.jpg\"/>\n",
 				"date_published": "2020-10-05T22:31:40+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/10/05/last-year-i.html"
 			},
@@ -234,7 +234,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/10/04/i-took-a.html",
 				
 				"content_html": "<p>I took a walk and a picture.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I took a walk and a picture.\n\n<img src=\"uploads/2020/6208fd336a.jpg\">\n",
+				"content_text": "I took a walk and a picture.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/6208fd336a.jpg\">\n",
 				"date_published": "2020-10-04T19:17:06+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/10/04/i-took-a.html"
 			},
@@ -242,7 +242,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/10/04/im-a-bit.html",
 				
 				"content_html": "<p>I&rsquo;m a bit late — as always — but I decided to participate in this year&rsquo;s Inktober. I&rsquo;d like to present to you: The Radio!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm a bit late — as always — but I decided to participate in this year's Inktober. I'd like to present to you: The Radio! \n\n<img src=\"uploads/2020/fa0dae585f.jpg\">\n",
+				"content_text": "I'm a bit late — as always — but I decided to participate in this year's Inktober. I'd like to present to you: The Radio! \n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/fa0dae585f.jpg\">\n",
 				"date_published": "2020-10-04T16:40:20+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/10/04/im-a-bit.html"
 			},
@@ -274,7 +274,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/09/29/ich-kritisier-und.html",
 				
 				"content_html": "<blockquote>\n<p>[Ich] Kritisier und du schreist „Zensur!“ immer der gleiche Mist\nWill dir nichts verbieten, will nur sagen, dass du Scheiße bist</p>\n</blockquote>\n<p>Aus: <a href=\"https://open.spotify.com/track/29lkx3SeFYWF6pzMhv7b9p\">In Flammen von Neonschwarz</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "> \\[Ich\\] Kritisier und du schreist „Zensur!“ immer der gleiche Mist\n> Will dir nichts verbieten, will nur sagen, dass du Scheiße bist\n\nAus: [In Flammen von Neonschwarz](https://open.spotify.com/track/29lkx3SeFYWF6pzMhv7b9p)\n\n<img src=\"uploads/2020/96c6c01741.jpg\">\n",
+				"content_text": "> \\[Ich\\] Kritisier und du schreist „Zensur!“ immer der gleiche Mist\n> Will dir nichts verbieten, will nur sagen, dass du Scheiße bist\n\nAus: [In Flammen von Neonschwarz](https://open.spotify.com/track/29lkx3SeFYWF6pzMhv7b9p)\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/96c6c01741.jpg\">\n",
 				"date_published": "2020-09-29T21:50:34+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/09/29/ich-kritisier-und.html"
 			},
@@ -290,7 +290,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/09/28/together-with-my.html",
 				
 				"content_html": "<p>Together with my best friend I&rsquo;m recording a <a href=\"https://codestammtis.ch\">German podcast about all things software development</a> — we&rsquo;re both software developers. And every episode we drink a beverage we never had before. When we&rsquo;re done with the drink, we rate it and the episode&rsquo;s over.</p>\n<p>Today I went to a local store called <em><a href=\"https://www.getraenkefeinkost.de\">Getränkefeinkost</a></em> which was recommended to me by a former guest of the podcast. It&rsquo;s a delicatessen store for beverages — craft beer, special lemonades and so on. They also sell my favorite cola, <em><a href=\"https://en.wikipedia.org/wiki/Premium-Cola\">Premium-Cola</a></em>, a soft drink made by a small collective and I&rsquo;m a fan of them, their drinks and their way of doing business.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Together with my best friend I'm recording a [German podcast about all things software development](https://codestammtis.ch) — we're both software developers. And every episode we drink a beverage we never had before. When we're done with the drink, we rate it and the episode's over.\n\nToday I went to a local store called *[Getränkefeinkost](https://www.getraenkefeinkost.de)* which was recommended to me by a former guest of the podcast. It's a delicatessen store for beverages — craft beer, special lemonades and so on. They also sell my favorite cola, *[Premium-Cola](https://en.wikipedia.org/wiki/Premium-Cola)*, a soft drink made by a small collective and I'm a fan of them, their drinks and their way of doing business.\n\n<img src=\"uploads/2020/4305ac8e68.jpg\">\n",
+				"content_text": "Together with my best friend I'm recording a [German podcast about all things software development](https://codestammtis.ch) — we're both software developers. And every episode we drink a beverage we never had before. When we're done with the drink, we rate it and the episode's over.\n\nToday I went to a local store called *[Getränkefeinkost](https://www.getraenkefeinkost.de)* which was recommended to me by a former guest of the podcast. It's a delicatessen store for beverages — craft beer, special lemonades and so on. They also sell my favorite cola, *[Premium-Cola](https://en.wikipedia.org/wiki/Premium-Cola)*, a soft drink made by a small collective and I'm a fan of them, their drinks and their way of doing business.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/4305ac8e68.jpg\">\n",
 				"date_published": "2020-09-28T15:56:45+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/09/28/together-with-my.html"
 			},
@@ -298,7 +298,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/09/26/i-just-homemade.html",
 				
 				"content_html": "<p>I just home-made some strawberry jam. For the first time ever — I’m so excited how it’s going to taste!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I just home-made some strawberry jam. For the first time ever — I’m so excited how it’s going to taste!\n\n<img src=\"uploads/2020/9cc5bf8e42.jpg\">\n",
+				"content_text": "I just home-made some strawberry jam. For the first time ever — I’m so excited how it’s going to taste!\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/9cc5bf8e42.jpg\">\n",
 				"date_published": "2020-09-26T18:49:38+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/09/26/i-just-homemade.html"
 			},
@@ -330,7 +330,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/09/24/i-guess-i.html",
 				
 				"content_html": "<p>I guess, I won’t be lonely tonight.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I guess, I won’t be lonely tonight.\n\n<img src=\"uploads/2020/96678454c2.jpg\">\n",
+				"content_text": "I guess, I won’t be lonely tonight.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/96678454c2.jpg\">\n",
 				"date_published": "2020-09-24T18:17:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/09/24/i-guess-i.html"
 			},
@@ -354,7 +354,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/09/22/today-i-cycled.html",
 				
 				"content_html": "<p>Today I cycled through the city and stopped at <a href=\"https://en.wikipedia.org/wiki/Charlottenburg_Palace\">Charlottenburg Palace</a>. I took a little walk in the park and it was quite lovely.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today I cycled through the city and stopped at [Charlottenburg Palace](https://en.wikipedia.org/wiki/Charlottenburg_Palace). I took a little walk in the park and it was quite lovely.\n\n<img src=\"uploads/2020/c739e9cf14.jpg\">\n",
+				"content_text": "Today I cycled through the city and stopped at [Charlottenburg Palace](https://en.wikipedia.org/wiki/Charlottenburg_Palace). I took a little walk in the park and it was quite lovely.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/c739e9cf14.jpg\">\n",
 				"date_published": "2020-09-22T21:30:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/09/22/today-i-cycled.html"
 			},
@@ -394,7 +394,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/09/17/as-promised-heres.html",
 				
 				"content_html": "<p>As promised: Here&rsquo;s another picture from the Festival of Light. It&rsquo;s the <a href=\"https://en.wikipedia.org/wiki/Berlin_Cathedral\">Berlin Cathedral</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "As promised: Here's another picture from the Festival of Light. It's the [Berlin Cathedral](https://en.wikipedia.org/wiki/Berlin_Cathedral).\n\n<img src=\"uploads/2020/1278439850.jpg\" width=\"720\" height=\"720\" alt=\"\" />\n",
+				"content_text": "As promised: Here's another picture from the Festival of Light. It's the [Berlin Cathedral](https://en.wikipedia.org/wiki/Berlin_Cathedral).\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/1278439850.jpg\" width=\"720\" height=\"720\" alt=\"\" />\n",
 				"date_published": "2020-09-17T00:13:28+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/09/17/as-promised-heres.html"
 			},
@@ -450,7 +450,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/07/27/when-i-arrived.html",
 				
 				"content_html": "<p>When I arrived back home yesterday, I went for little walk in the evening after some heavy rain.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When I arrived back home yesterday, I went for little walk in the evening after some heavy rain. \n\n<img src=\"uploads/2020/da42751306.jpg\" />\n",
+				"content_text": "When I arrived back home yesterday, I went for little walk in the evening after some heavy rain. \n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/da42751306.jpg\" />\n",
 				"date_published": "2020-07-27T18:11:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/07/27/when-i-arrived.html"
 			},
@@ -458,7 +458,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/07/26/from-the-mountains.html",
 				"title": "From the mountains to the sea",
 				"content_html": "<p>I took another week off from work, filed my taxes and spent the last couple of days close to the <a href=\"https://en.m.wikipedia.org/wiki/Baltic_Sea\">Baltic Sea</a>. Earlier this year I made a promise: I want to go there by bike. And so I did. I stayed at the flat of a friend and took care of their plants in exchange. On friday, I jumped on my bicycle and went off to the sea. After like 40 kilometers, I suffered from a flat tire in the middle of nowhere, but thankfully the parents of another very dear friend drove me back to the city. And so I spent the afternoon fixing my bike. On saturday, I even attended a small cruise for like 15 minutes. Then the ferry arrived at the final stop.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I took another week off from work, filed my taxes and spent the last couple of days close to the [Baltic Sea](https://en.m.wikipedia.org/wiki/Baltic_Sea). Earlier this year I made a promise: I want to go there by bike. And so I did. I stayed at the flat of a friend and took care of their plants in exchange. On friday, I jumped on my bicycle and went off to the sea. After like 40 kilometers, I suffered from a flat tire in the middle of nowhere, but thankfully the parents of another very dear friend drove me back to the city. And so I spent the afternoon fixing my bike. On saturday, I even attended a small cruise for like 15 minutes. Then the ferry arrived at the final stop.\n\n<img src=\"uploads/2020/77a070d58c.jpg\" />\n<img src=\"uploads/2020/466fdcb28d.jpg\" />\n<img src=\"uploads/2020/519ff73976.jpg\" />\n<img src=\"uploads/2020/35644a7c93.jpg\" />\n",
+				"content_text": "I took another week off from work, filed my taxes and spent the last couple of days close to the [Baltic Sea](https://en.m.wikipedia.org/wiki/Baltic_Sea). Earlier this year I made a promise: I want to go there by bike. And so I did. I stayed at the flat of a friend and took care of their plants in exchange. On friday, I jumped on my bicycle and went off to the sea. After like 40 kilometers, I suffered from a flat tire in the middle of nowhere, but thankfully the parents of another very dear friend drove me back to the city. And so I spent the afternoon fixing my bike. On saturday, I even attended a small cruise for like 15 minutes. Then the ferry arrived at the final stop.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/77a070d58c.jpg\" />\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/466fdcb28d.jpg\" />\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/519ff73976.jpg\" />\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/35644a7c93.jpg\" />\n",
 				"date_published": "2020-07-26T21:59:32+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/07/26/from-the-mountains.html"
 			},
@@ -482,7 +482,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/07/01/its-coffee-oclock.html",
 				
 				"content_html": "<p>It‘s <a href=\"https://www.fritz-kola.de/en/vielfalt/fritz-kola/fritz-kola-sugarfree/\">coffee</a> o’clock ☕️ 🧭</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It‘s [coffee](https://www.fritz-kola.de/en/vielfalt/fritz-kola/fritz-kola-sugarfree/) o’clock ☕️ 🧭\n\n<img src=\"uploads/2020/bd96eedae7.jpg\" alt=\"\" />\n",
+				"content_text": "It‘s [coffee](https://www.fritz-kola.de/en/vielfalt/fritz-kola/fritz-kola-sugarfree/) o’clock ☕️ 🧭\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/bd96eedae7.jpg\" alt=\"\" />\n",
 				"date_published": "2020-07-01T14:26:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/07/01/its-coffee-oclock.html"
 			},
@@ -490,7 +490,7 @@
 				"id": "http://zeitschlag.micro.blog/2020/06/28/i-spent-the.html",
 				
 				"content_html": "<p>I spent the last couple of days of my vacation visiting a very good friend of mine in Switzerland. Yesterday, we sat in the car and drove into the Alps. It‘s just an breathtaking scenery up there! 🏔🗺</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I spent the last couple of days of my vacation visiting a very good friend of mine in Switzerland. Yesterday, we sat in the car and drove into the Alps. It‘s just an breathtaking scenery up there! 🏔🗺\n\n<img src=\"uploads/2020/a34a68acb9.jpg\" alt=\"\" /><img src=\"uploads/2020/b787502f64.jpg\" alt=\"\" /><img src=\"uploads/2020/b60d57f716.jpg\" alt=\"\" />\n",
+				"content_text": "I spent the last couple of days of my vacation visiting a very good friend of mine in Switzerland. Yesterday, we sat in the car and drove into the Alps. It‘s just an breathtaking scenery up there! 🏔🗺\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2020/a34a68acb9.jpg\" alt=\"\" /><img src=\"https://zeitschlag.micro.blog/uploads/2020/b787502f64.jpg\" alt=\"\" /><img src=\"https://zeitschlag.micro.blog/uploads/2020/b60d57f716.jpg\" alt=\"\" />\n",
 				"date_published": "2020-06-28T12:33:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2020/06/28/i-spent-the.html"
 			},
@@ -586,7 +586,7 @@
 				"id": "http://zeitschlag.micro.blog/2019/11/20/092428.html",
 				
 				"content_html": "<p>🌃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🌃\n\n<img src=\"uploads/2019/f9417c36ce.jpg\" alt=\"\" />\n",
+				"content_text": "🌃\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2019/f9417c36ce.jpg\" alt=\"\" />\n",
 				"date_published": "2019-11-20T10:24:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2019/11/20/092428.html"
 			},
@@ -594,7 +594,7 @@
 				"id": "http://zeitschlag.micro.blog/2019/11/19/185034.html",
 				
 				"content_html": "<p>🌃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🌃\n\n<img src=\"uploads/2019/e24472a880.jpg\" alt=\"\" />\n",
+				"content_text": "🌃\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2019/e24472a880.jpg\" alt=\"\" />\n",
 				"date_published": "2019-11-19T19:50:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2019/11/19/185034.html"
 			},
@@ -634,7 +634,7 @@
 				"id": "http://zeitschlag.micro.blog/2019/10/06/i-had-to.html",
 				
 				"content_html": "<p>I had to leave the house and decided to travel to Cologne for basically a ride on my bike and a piece of cake.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I had to leave the house and decided to travel to Cologne for basically a ride on my bike and a piece of cake.\n\n<img src=\"uploads/2019/0ea9868c0b.jpg\" alt=\"\" />\n",
+				"content_text": "I had to leave the house and decided to travel to Cologne for basically a ride on my bike and a piece of cake.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2019/0ea9868c0b.jpg\" alt=\"\" />\n",
 				"date_published": "2019-10-06T19:33:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2019/10/06/i-had-to.html"
 			},
@@ -642,7 +642,7 @@
 				"id": "http://zeitschlag.micro.blog/2019/09/27/critical-mass-in.html",
 				"title": "Critical Mass in Berlin",
 				"content_html": "<p>On last saturday, I attended my first <a href=\"https://en.wikipedia.org/wiki/Critical_Mass_(cycling)\">Critical Mass</a>. That‘s basically some people riding their bikes through the city. 2000 people joined in Berlin last weekend. I realized (again), how much public space cars need — and get. It‘s time to build some proper bicycle infrastructure in Germany.</p>\n<p>Tonight‘s the next Critical Mass and I‘m really looking forward to it!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "On last saturday, I attended my first [Critical Mass](https://en.wikipedia.org/wiki/Critical_Mass_(cycling)). That‘s basically some people riding their bikes through the city. 2000 people joined in Berlin last weekend. I realized (again), how much public space cars need — and get. It‘s time to build some proper bicycle infrastructure in Germany.\n\nTonight‘s the next Critical Mass and I‘m really looking forward to it!\n\n<img src=\"uploads/2019/7cc9697252.jpg\" alt=\"\" />\n",
+				"content_text": "On last saturday, I attended my first [Critical Mass](https://en.wikipedia.org/wiki/Critical_Mass_(cycling)). That‘s basically some people riding their bikes through the city. 2000 people joined in Berlin last weekend. I realized (again), how much public space cars need — and get. It‘s time to build some proper bicycle infrastructure in Germany.\n\nTonight‘s the next Critical Mass and I‘m really looking forward to it!\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2019/7cc9697252.jpg\" alt=\"\" />\n",
 				"date_published": "2019-09-27T14:08:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2019/09/27/critical-mass-in.html"
 			},
@@ -690,7 +690,7 @@
 				"id": "http://zeitschlag.micro.blog/2019/09/17/the-sky-was.html",
 				
 				"content_html": "<p>The sky was much more beautiful in reality. Greeting from the lovely town of Basel 🇨🇭🗺</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The sky was much more beautiful in reality. Greeting from the lovely town of Basel 🇨🇭🗺\n\n<img src=\"uploads/2019/6ed5c06bff.jpg\" alt=\"\" />\n",
+				"content_text": "The sky was much more beautiful in reality. Greeting from the lovely town of Basel 🇨🇭🗺\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2019/6ed5c06bff.jpg\" alt=\"\" />\n",
 				"date_published": "2019-09-17T21:37:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2019/09/17/the-sky-was.html"
 			},
@@ -706,7 +706,7 @@
 				"id": "http://zeitschlag.micro.blog/2019/09/17/heres-another-one.html",
 				
 				"content_html": "<p>Here‘s another one I took in Frankfurt last week. This time it‘s without a filter.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Here‘s another one I took in Frankfurt last week. This time it‘s without a filter.\n\n<img src=\"uploads/2019/896ec81425.jpg\" alt=\"\" />\n",
+				"content_text": "Here‘s another one I took in Frankfurt last week. This time it‘s without a filter.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2019/896ec81425.jpg\" alt=\"\" />\n",
 				"date_published": "2019-09-17T10:53:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2019/09/17/heres-another-one.html"
 			},
@@ -714,7 +714,7 @@
 				"id": "http://zeitschlag.micro.blog/2019/09/17/lets-see-how.html",
 				
 				"content_html": "<p>Let‘s see, how micro.blog handles images. I took this picture in Berlin and applied the &ldquo;Pacific&rdquo;-filter to it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Let‘s see, how micro.blog handles images. I took this picture in Berlin and applied the \"Pacific\"-filter to it.\n\n<img src=\"uploads/2019/8717266428.jpg\" alt=\"\" />\n",
+				"content_text": "Let‘s see, how micro.blog handles images. I took this picture in Berlin and applied the \"Pacific\"-filter to it.\n\n<img src=\"https://zeitschlag.micro.blog/uploads/2019/8717266428.jpg\" alt=\"\" />\n",
 				"date_published": "2019-09-17T10:36:00+02:00",
 				"url": "https://zeitschlag.micro.blog/2019/09/17/lets-see-how.html"
 			},
